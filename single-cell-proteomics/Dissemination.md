@@ -30,14 +30,14 @@ A collection of recorded video presentations from the [single-cell proteomics co
 # Video resources 
 Additional video recordings are also available at the [YouTube Channel](https://www.youtube.com/c/NikolaiSlavovResearch) of the [Slavov Laboratory](http://slavovlab.net).
 
-<dv style="align: center;">
+
 <h2 style="letter-spacing: 2px; font-size: 28px; text-align: center;" id="single-cell-proteomics-videos">
 <a href="https://www.youtube.com/c/NikolaiSlavovResearch">Single-cell proteomics YouTube Channel</a>
 </h2>
 
 &nbsp;
 
-
+<div style="align: center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NNLh4nE687I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
