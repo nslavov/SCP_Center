@@ -42,7 +42,7 @@ This network will map the human testis in 3D using paired single cell analysis b
 ### [Tracking proteome dynamics in single cells](http://slavovlab.net/research.htm#SCoPE-Dyn)
 TOne of the most significant recent developments in biomedical research and engineering is the explosion of technologies for quantifying thousands of genes in single cells. These technologies have transformed our ability to identify cell types and cell states in healthy and diseased human tissues. Our laboratory has contributed to these efforts by pioneering powerful methods for quantifying proteins in single cells at unprecedented scale. For the first time, we can examine single cells at systems level. Yet, these glimpses are static: we can only take one snapshot of a cell, showing us protein type and the amount of each protein, per cell. To overcome this limitaion, we develop methods that will enable us to measure the abundance, the birth and and the death rates of proteins across time. By introducing isotopically-labeled amino acids at different time points over the life of a cell, we create a protein travelogue for each cell. Then, the travelogue of each cell is decoded by mass-spectrometry, thus revealing the protein dynamics underpinning the life and functions of each cell. This technology can move biomedical research from the era of still pictures to the era of dynamic movies, the era when we can finally see and understand the dynamics of protein interactions that animate each cell.
 
-[Read more >>](https://chanzuckerberg.com/science/programs-resources/humancellatlas/seednetworks/mapping-the-transcriptome-and-proteome-of-human-testis-in-3d/)
+[Read more >>](http://slavovlab.net/research.htm#SCoPE-Dyn)
 
 
 
