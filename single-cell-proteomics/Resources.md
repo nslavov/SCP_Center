@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Videos
-nav_order: 3
+title: Resources
+nav_order: 5
 description: "Single-cell proteomics research talks"
-permalink: single-cell-proteomics/videos
+permalink: single-cell-proteomics/resources
 ---
 
 # Single-cell proteomics research presentations
