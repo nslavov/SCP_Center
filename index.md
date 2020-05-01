@@ -9,10 +9,11 @@ permalink: /
 
 # Single-cell proteomics center
 
+<div style="font-size:13px; font-weight: 400; letter-spacing: 1.3px;"> 
 We develop mass-spec based technologies for quantifying thousands of proteins and their interactions across thousands of single cells. We apply these technologies to understand emerging behaviors in biological systems and to identify mechanisms that underpin health and disease.
 
 [Read more >>](https://science.sciencemag.org/content/367/6477/512)
-
+</div>div>
 
 &nbsp;
 
