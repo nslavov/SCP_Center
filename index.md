@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Center
-nav_order: 200
+nav_order: 1
 description: "Single-cell proteomics center"
-permalink: /proteomics-center/
+permalink: /
 ---
 
 
