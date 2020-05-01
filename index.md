@@ -9,38 +9,12 @@ permalink: /
 
 # Single-cell proteomics center
 
+We develop mass-spec based technologies for quantifying thousands of proteins and their interactions across thousands of single cells. We apply these technologies to understand emerging behaviors in biological systems and to identify mechanisms that underpin health and disease.
 
-## Director
-
-<table  cellspacing="0" border="0"  cellpadding="0" >
-<tr border="0">
-    <td>
-      <div  id="NikolaiSlavov" style="font-size:20px; font-weight: 400; letter-spacing: 1.5px;" border="0" >
-			<span itemprop="name">Professor Nikolai Slavov</span>
-	  </div>
-		<br>
-		<div style="line-height: 160%; padding: 1 1 1 20;" >
-		  <div style="font-family:   'Open Sans',   sans-serif;   font-size:13px; font-weight: 400; letter-spacing: 1.2px;"> <!-- Courier, New,     'Josefin Slab', serif;       -->
-			2010 &nbsp; Ph.D.  &nbsp;  Botstein Lab, Princeton University<br>
-			2004 &nbsp; B.S.   &nbsp; &nbsp; Massachusetts Institute of Technology <br>
-		  </div>
-		<br>
-		<div style="letter-spacing: 1px;">
-		<a href="https://coe.northeastern.edu/people/slavov-nikolai/" target="_blank"  itemprop="url" alt="professor Slavov">Faculty Profile</a> &nbsp; | &nbsp;			
-		<a href="http://orcid.org/0000-0003-2035-1820" target="_blank">ORCID</a> &nbsp; | &nbsp;
-		<a href="https://scholar.harvard.edu/nslavov/biography" target="_blank">Biography</a>
-	   </div>
-     </div>
-    </td>
-    <td  align="right"  border="0" >
-			<a href="https://www.linkedin.com/in/nslavov/" target="_blank" width="140"  alt="Nikolai Slavov" >
-			<img  src="http://slavovlab.net/index_files/Slavov-2019-Botev.jpg" width="140"  alt="Professor Slavov" ></a>
-	</td>
-</tr>
-</table>
+[Read more >>](https://science.sciencemag.org/content/367/6477/512)
 
 
-
+&nbsp;
 
 &nbsp;
 
@@ -59,6 +33,15 @@ This network will map the human testis in 3D using paired single cell analysis b
 
 [Read more >>](https://chanzuckerberg.com/science/programs-resources/humancellatlas/seednetworks/mapping-the-transcriptome-and-proteome-of-human-testis-in-3d/)
 
+
+
+&nbsp;
+
+
+### [Tracking proteome dynamics in single cells](http://slavovlab.net/research.htm#SCoPE-Dyn)
+TOne of the most significant recent developments in biomedical research and engineering is the explosion of technologies for quantifying thousands of genes in single cells. These technologies have transformed our ability to identify cell types and cell states in healthy and diseased human tissues. Our laboratory has contributed to these efforts by pioneering powerful methods for quantifying proteins in single cells at unprecedented scale. For the first time, we can examine single cells at systems level. Yet, these glimpses are static: we can only take one snapshot of a cell, showing us protein type and the amount of each protein, per cell. To overcome this limitaion, we develop methods that will enable us to measure the abundance, the birth and and the death rates of proteins across time. By introducing isotopically-labeled amino acids at different time points over the life of a cell, we create a protein travelogue for each cell. Then, the travelogue of each cell is decoded by mass-spectrometry, thus revealing the protein dynamics underpinning the life and functions of each cell. This technology can move biomedical research from the era of still pictures to the era of dynamic movies, the era when we can finally see and understand the dynamics of protein interactions that animate each cell.
+
+[Read more >>](https://chanzuckerberg.com/science/programs-resources/humancellatlas/seednetworks/mapping-the-transcriptome-and-proteome-of-human-testis-in-3d/)
 
 
 

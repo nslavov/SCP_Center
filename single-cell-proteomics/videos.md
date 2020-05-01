@@ -3,11 +3,11 @@ layout: default
 title: Videos
 nav_order: 3
 description: "Single-cell proteomics research talks"
-permalink: proteomics-center/videos
+permalink: single-cell-proteomics/videos
 ---
 
-# Single-cell proteomics presentations
-Below are links to recorded videos of presentations from the [single-cell proteomics conferences](http://single-cell.net/). All videos are available from the [YouTube Channel](https://www.youtube.com/c/NikolaiSlavovResearch) of the [Slavov Laboratory](http://slavovlab.net).
+# Single-cell proteomics research presentations
+Below are links to recorded videos of presentations from the [single-cell proteomics conferences](http://single-cell.net/). Videos are also available at the [YouTube Channel](https://www.youtube.com/c/NikolaiSlavovResearch) of the [Slavov Laboratory](http://slavovlab.net).
 
 
 &nbsp;
