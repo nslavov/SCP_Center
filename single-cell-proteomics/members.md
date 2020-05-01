@@ -7,7 +7,7 @@ permalink: single-cell-proteomics/members
 ---
 
 
-## Director
+# Director
 
 <table  cellspacing="0" border="0"  cellpadding="0" >
 <tr border="0">
@@ -38,3 +38,15 @@ permalink: single-cell-proteomics/members
 
 
 ------------
+
+## Aleksandra Petelski
+
+## Andrew Leduc
+
+## David Perlman
+
+## Gray Huffman
+
+## Jason Derks
+
+## Harrison Specht 
