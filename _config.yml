@@ -14,18 +14,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 theme: jekyll-theme-minimal
-url: http://single-cell.net
+url: http://center.single-cell.net
 
 # Single-cell proteomics
 title: SCP Center
-description: Single-cell proteomics center and conferences in Boston
+description: Single-cell proteomics center in Boston
 
 
 aux_links:
-  "Single-cell proteomics":
+  "SCP meeting":
     - "http://scp.single-cell.net"
-  "Meetings":
-    - "http://slavovlab.net/research.htm#Single-Cell-Proteomics-Conference"   
+  "Slavov Laboratory":
+    - "http://slavovlab.net/"      
+  "Single-cell proteomics":
+    - "http://slavovlab.net/research.htm"   
 
     
 
