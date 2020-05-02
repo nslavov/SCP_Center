@@ -6,30 +6,34 @@ description: "Single-cell proteomics research talks"
 permalink: single-cell-proteomics/dissemination
 ---
 
-The center actively disseminates technology and facilitates its broader adoption via the release of detailed tutorial, protocols, and rsearch presentaions.  
+# Disseminating single-cell proteomics technology 
+<div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;"> 
+The center actively disseminates technology and facilitates its broader adoption via the release of detailed tutorial, protocols, and rsearch presentaions. 
+</div>
 
-# Video tutorials 
-## [Introduction to quantifying proteins by mass-spectrometry](https://youtu.be/P0-_gDUNikc)
 
-## [Video tutorials from the SCP219 Workshop](https://www.youtube.com/playlist?list=PLHLRxq8iKFsLJey2MshSlUhg1lGAj0dLW)
+## Video tutorials 
+### [Introduction to quantifying proteins by mass-spectrometry](https://youtu.be/P0-_gDUNikc)
+
+### [Video tutorials from the SCP219 Workshop](https://www.youtube.com/playlist?list=PLHLRxq8iKFsLJey2MshSlUhg1lGAj0dLW)
 A collection of detailed tutorials on performing single-cell protein analysis by mass-spectrometry. 
 
 &nbsp;
 
 
-# Single-cell proteomics research presentations
+## Single-cell proteomics research presentations
 A collection of recorded video presentations from the [single-cell proteomics conferences](http://single-cell.net/) can be accessed from the links below. 
 
-## [Research presentations from SCP2018](https://www.youtube.com/playlist?list=PLHLRxq8iKFsK-F_1832c1TLT2Qc4Fo4DB)
+### [Research presentations from SCP2018](https://www.youtube.com/playlist?list=PLHLRxq8iKFsK-F_1832c1TLT2Qc4Fo4DB)
 
-## [Research presentations from SCP2018](https://www.youtube.com/playlist?list=PLHLRxq8iKFsJxMcKhguyKMSI7vaIYTYsV)
+### [Research presentations from SCP2018](https://www.youtube.com/playlist?list=PLHLRxq8iKFsJxMcKhguyKMSI7vaIYTYsV)
 
 
 &nbsp;
 
 
 
-# Video resources 
+## Video resources 
 Additional video recordings are also available at the [YouTube Channel](https://www.youtube.com/c/NikolaiSlavovResearch) of the [Slavov Laboratory](http://slavovlab.net).
 
 
