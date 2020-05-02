@@ -6,11 +6,13 @@ description: "Single-cell proteomics research talks"
 permalink: single-cell-proteomics/dissemination
 ---
 
+The center actively disseminates technology and facilitates its broader adoption via the release of detailed tutorial, protocols, and rsearch presentaions.  
 
-# Detailed tutorials 
-The center actively aims to disseminate technology and facilitate its broader adoption. Below is a collection of detailed tutorials on performing single-cell protein analysis by mass-spectrometry.    
+# Video tutorials 
+## [Introduction to quantifying proteins by mass-spectrometry](https://youtu.be/P0-_gDUNikc)
+
 ## [Video tutorials from the SCP219 Workshop](https://www.youtube.com/playlist?list=PLHLRxq8iKFsLJey2MshSlUhg1lGAj0dLW)
-
+A collection of detailed tutorials on performing single-cell protein analysis by mass-spectrometry. 
 
 &nbsp;
 
@@ -38,7 +40,7 @@ Additional video recordings are also available at the [YouTube Channel](https://
 &nbsp;
 
 <div style="align: center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NNLh4nE687I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" align="center" height="315" src="https://www.youtube.com/embed/NNLh4nE687I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
