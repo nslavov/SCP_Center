@@ -6,10 +6,12 @@ description: "Single-cell proteomics research talks"
 permalink: single-cell-proteomics/dissemination
 ---
 
-# Disseminating single-cell proteomics technology 
+# Disseminating technology 
 <div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;"> 
 The center actively disseminates technology and facilitates its broader adoption via the release of detailed tutorial, protocols, and rsearch presentaions. 
 </div>
+
+&nbsp;
 
 
 ## Video tutorials 
