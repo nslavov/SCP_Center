@@ -2,13 +2,13 @@
 layout: default
 title: Dissemination
 nav_order: 5
-description: "Single-cell proteomics research talks"
+description: "Single-cell proteomics tutorials, research talks and resources"
 permalink: single-cell-proteomics/dissemination
 ---
 
 # Disseminating technology 
 <div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;"> 
-The center actively disseminates technology and facilitates its broader adoption via the release of detailed tutorial, protocols, and rsearch presentaions. 
+The center actively disseminates single-cell proteomics technology and facilitates its broader adoption via the release of detailed tutorial, protocols, and rsearch presentaions. 
 </div>
 
 &nbsp;
