@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Members
-nav_order: 2
+nav_order: 4
 description: "Single-cell proteomics research talks"
 permalink: single-cell-proteomics/members
 ---
@@ -50,4 +50,4 @@ permalink: single-cell-proteomics/members
 
 ## Jason Derks
 
-## Harrison Specht 
+## Harrison Specht

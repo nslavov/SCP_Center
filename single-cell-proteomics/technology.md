@@ -3,10 +3,10 @@ layout: default
 title: Technology
 nav_order: 2
 description: "Single-cell proteomics technology"
-permalink: single-cell-proteomics/Research
+permalink: single-cell-proteomics/technology
 ---
 
-# Research projects
+# Technology for single-cell analysis
 <div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;">
 The center develops single-cell proteomics technology with that is high-throughput, robust, and easy to adopt.   
 </div>
