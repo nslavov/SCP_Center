@@ -14,7 +14,7 @@ The center develops single-cell proteomics technology and uses it to test differ
 &nbsp;
 
 
- [![]({{site.baseurl}}/single-cell-proteomics/micrographs/Macrophage-eating-bacteria.jpg){:width="100%" .center-image}]({{site.baseurl}}/single-cell-proteomics/micrographs/Macrophage-eating-bacteria.jpg)
+ [![]({{site.baseurl}}/single-cell-proteomics/micrographs/Macrophage-eating-bacteria.jpeg){:width="100%" .center-image}]({{site.baseurl}}/single-cell-proteomics/micrographs/Macrophage-eating-bacteria.jpeg)
 
 &nbsp;
 
