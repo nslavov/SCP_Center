@@ -30,4 +30,4 @@ We develop mass-spectrometry based technologies for quantifying thousands of pro
 
 ## About the single-cell proteomics center
 
-The single-cell proteomics center located at [Northeastern University](https://www.northeastern.edu/) in Boston, MA, USA. Questions about the center should be addressed to [Prof. Nikolai Slavov](https://coe.northeastern.edu/people/slavov-nikolai/).
+The single-cell proteomics center is located at [Northeastern University](https://www.northeastern.edu/) in Boston, MA, USA. Questions about the center should be addressed to [Prof. Nikolai Slavov](https://coe.northeastern.edu/people/slavov-nikolai/).
