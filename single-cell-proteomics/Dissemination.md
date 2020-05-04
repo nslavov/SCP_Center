@@ -14,6 +14,11 @@ The center actively disseminates single-cell proteomics technology and facilitat
 &nbsp;
 
 
+[![]({{site.baseurl}}/single-cell-proteomics/micrographs/Pluripotent-stem-cell.jpg){:width="100%" .center-image}]({{site.baseurl}}/single-cell-proteomics/micrographs/Pluripotent-stem-cell-large.jpg)
+ 
+&nbsp;
+
+
 ## Video tutorials
 ### [Introduction to quantifying proteins by mass-spectrometry](https://youtu.be/P0-_gDUNikc)
 
