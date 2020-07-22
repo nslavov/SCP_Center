@@ -18,18 +18,17 @@ url: http://center.single-cell.net
 
 # Single-cell proteomics
 title: SCP Center
-description: Single-cell proteomics center in Boston
+description: Center for single-cell proteomics and systems biology
 
 
 aux_links:
+  "Slavov Laboratory":
+    - "http://slavovlab.net/"
+  "Single-cell proteomics":
+    - "http://slavovlab.net/research.htm"
   "SCP meeting":
     - "http://scp.single-cell.net"
-  "Slavov Laboratory":
-    - "http://slavovlab.net/"      
-  "Single-cell proteomics":
-    - "http://slavovlab.net/research.htm"   
 
-    
 
 search_enabled: true
 
