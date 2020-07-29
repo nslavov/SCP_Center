@@ -44,4 +44,8 @@ The single-cell proteomics center is located at [Northeastern University](https:
 |-------|--------|---------|
 | ambrosia | gala | red delicious |
 | pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
+| honeycrisp | granny smith | <script>
+var strDateTime = "Fri, 18 Oct 2013 14:38 GMT";
+var myDate = new Date(strDateTime);
+document.write( myDate.toLocaleString() );
+</script> |
