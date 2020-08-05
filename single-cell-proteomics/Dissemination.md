@@ -5,6 +5,7 @@ nav_order: 5
 description: "Single-cell proteomics tutorials, research talks and resources"
 permalink: single-cell-proteomics/dissemination
 ---
+{% include social-media-links.html %}
 
 # Disseminating technology
 <div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;">
@@ -15,7 +16,7 @@ The center actively disseminates single-cell proteomics technology and facilitat
 
 
 [![]({{site.baseurl}}/single-cell-proteomics/micrographs/Pluripotent-stem-cell.jpg){:width="100%" .center-image}]({{site.baseurl}}/single-cell-proteomics/micrographs/Pluripotent-stem-cell-large.jpg)
- 
+
 &nbsp;
 
 

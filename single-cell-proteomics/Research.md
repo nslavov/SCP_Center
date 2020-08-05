@@ -5,6 +5,7 @@ nav_order: 3
 description: "Single-cell proteomics research projects"
 permalink: single-cell-proteomics/Research
 ---
+{% include social-media-links.html %}
 
 # Research projects
 <div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;">

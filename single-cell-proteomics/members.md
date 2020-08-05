@@ -5,7 +5,7 @@ nav_order: 4
 description: "Single-cell proteomics research talks"
 permalink: single-cell-proteomics/members
 ---
-
+{% include social-media-links.html %}
 
 # Director
 

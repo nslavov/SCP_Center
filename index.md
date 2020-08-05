@@ -5,7 +5,7 @@ nav_order: 1
 description: "Single-cell proteomics center for systems biology"
 permalink: /
 ---
-
+{% include social-media-links.html %}
 
 # Single-cell proteomics center
 

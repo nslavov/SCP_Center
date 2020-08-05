@@ -5,6 +5,7 @@ nav_order: 2
 description: "Single-cell proteomics technology for quantitative systems biology"
 permalink: single-cell-proteomics/technology
 ---
+{% include social-media-links.html %}
 
 # Technology for single-cell analysis
 <div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;">
