@@ -28,7 +28,7 @@ Human physiology and pathology arise from the coordinated interactions of divers
 
 
 ### [Mapping the Transcriptome and Proteome of Human Testis in 3D](https://chanzuckerberg.com/science/programs-resources/humancellatlas/seednetworks/mapping-the-transcriptome-and-proteome-of-human-testis-in-3d/)
-This network will map the human testis in 3D using paired single cell analysis by mass-spectrometry, clampFISH, and RNA-sequencing.
+This network will map the human testis in 3D using paired single-cell analysis by mass-spectrometry, clampFISH, and RNA-sequencing.
 
 [Read more >>](https://chanzuckerberg.com/science/programs-resources/humancellatlas/seednetworks/mapping-the-transcriptome-and-proteome-of-human-testis-in-3d/)
 
