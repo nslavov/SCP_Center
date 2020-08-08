@@ -3,7 +3,7 @@ layout: default
 title: Research
 nav_order: 3
 description: "Single-cell proteomics research projects"
-permalink: single-cell-proteomics/Research
+permalink: single-cell-proteomics/research
 ---
 {% include social-media-links.html %}
 
