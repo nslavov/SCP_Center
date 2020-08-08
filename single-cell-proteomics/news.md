@@ -15,12 +15,16 @@ Recent advances and news about single-cell proteomics technology in its applicat
 &nbsp;
 
 
-[![]({{site.baseurl}}/single-cell-proteomics/micrographs/Pluripotent-stem-cell.jpg){:width="100%" .center-image}]({{site.baseurl}}/single-cell-proteomics/micrographs/Pluripotent-stem-cell-large.jpg)
+[![]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-revolution.png){:width="100%" .center-image}](https://www.bioanalysis-zone.com/2020/02/11/single-cell-proteomics-revolution_bo/)
 
 &nbsp;
 
 
 ## News and media highlights
+
+### [The single-cell review](https://doi.org/10.1016/j.cbpa.2020.04.018) &nbsp;   June 2020
+[![]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-review.jpg){:width="80%" .center-image}](https://doi.org/10.1016/j.cbpa.2020.04.018)
+Major challenges to single-cell protein analysis by mass-spectrometry and their solutions
 
 ### [The single cell proteomics revolution](https://www.bioanalysis-zone.com/2020/02/11/single-cell-proteomics-revolution_bo/) &nbsp;   Feb 2020
 [![]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-revolution.png){:width="80%" .center-image}](https://www.bioanalysis-zone.com/2020/02/11/single-cell-proteomics-revolution_bo/)
