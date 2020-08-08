@@ -23,7 +23,7 @@ Recent advances and news about single-cell proteomics technology in its applicat
 ## News and media highlights
 
 ### [Single-cell proteomics review](https://doi.org/10.1016/j.cbpa.2020.04.018) &nbsp;   June 2020
-[![]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-review.jpg){:width="70%" .center-image}](https://doi.org/10.1016/j.cbpa.2020.04.018)
+[![]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-review.png){:width="70%" .center-image}](https://doi.org/10.1016/j.cbpa.2020.04.018)
 Major challenges to single-cell protein analysis by mass-spectrometry and their solutions
 
 ---
@@ -38,8 +38,16 @@ Major challenges to single-cell protein analysis by mass-spectrometry and their 
 
 &nbsp;
 
+### [Single-cell proteomics perspective in Science](https://science.sciencemag.org/content/367/6477/512) &nbsp;   Jan 2020
+[![]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-Science-perspective.png){:width="70%" .center-image}](https://doi.org/10.1126/science.aaz6695)
+Single-cell mass spectrometry will help reveal mechanisms that underpin health and disease
+
+---
+
+&nbsp;
+
 ### [Single-cell proteomics technology feature in Nature Methods](https://www.nature.com/articles/s41592-019-0540-6) &nbsp;   Aug 2019
-[![]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-Nature-Methods-Technology-Feature.jpg){:width="80%" .center-image}](https://www.bioanalysis-zone.com/2020/02/11/single-cell-proteomics-revolution_bo/)
+[![]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-Nature-Methods-Technology-Feature.png){:width="80%" .center-image}](https://www.bioanalysis-zone.com/2020/02/11/single-cell-proteomics-revolution_bo/)
 
 ---
 
