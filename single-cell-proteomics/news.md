@@ -7,9 +7,9 @@ permalink: single-cell-proteomics/news
 ---
 {% include social-media-links.html %}
 
-# Disseminating technology
+# Single-cell proteomics news
 <div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;">
-The center actively disseminates single-cell proteomics technology and facilitates its broader adoption via the release of detailed tutorials, protocols, and research presentations.
+Recent advances and news about single-cell proteomics technology in its application to basic biomedical research and to clinical problems.  
 </div>
 
 &nbsp;
