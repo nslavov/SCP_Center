@@ -66,7 +66,7 @@ Single-cell mass spectrometry will help reveal mechanisms that underpin health a
 
 &nbsp;
 
-### [Northeastern University Hosts First Single Cell Proteomics Conference](https://coe.northeastern.edu/news/northeastern-engineering-hosts-first-single-cell-proteomics-conference/) &nbsp;   June 2018
+### [Northeastern University hosts the first Single-Cell Proteomics Conference](https://coe.northeastern.edu/news/northeastern-engineering-hosts-first-single-cell-proteomics-conference/) &nbsp;   June 2018
 [![](http://single-cell.net/proteomics/photos/SCP2018_Group_Picture.JPG){:width="80%" .center-image}](http://single-cell.net/proteomics/networks)
 
 ---
