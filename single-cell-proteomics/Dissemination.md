@@ -34,7 +34,9 @@ A collection of recorded video presentations from the [single-cell proteomics co
 
 ### [Research presentations from SCP2018](https://www.youtube.com/playlist?list=PLHLRxq8iKFsK-F_1832c1TLT2Qc4Fo4DB)
 
-### [Research presentations from SCP2018](https://www.youtube.com/playlist?list=PLHLRxq8iKFsJxMcKhguyKMSI7vaIYTYsV)
+### [Research presentations from SCP2019](https://www.youtube.com/playlist?list=PLHLRxq8iKFsJxMcKhguyKMSI7vaIYTYsV)
+
+### [Research presentations from SCP2020](http://scp2020videos.single-cell.net)
 
 
 &nbsp;
