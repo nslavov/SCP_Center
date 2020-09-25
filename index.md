@@ -24,7 +24,7 @@ We develop mass-spectrometry based technologies for quantifying thousands of pro
 
 Recently, the throughput of single-cell transcriptomics and genomics technologies has increased more than a 1000-fold. This increase has powered new analyses: Whereas traditional analysis of bulk tissue averages all differences between the diverse cells comprising such samples, single-cell analysis characterizes each individual cell and thus has enabled the discovery and classification of previously unknown cell states.
 
-The SCP center is developing mass-spectrometry (MS) technologies that afford analyzing proteins in single cells and promise to deliver similar gains to single-cell protein analysis. These [proteomic technologies](https://arxiv.org/abs/2004.02069) enable high-throughput [investigation of key biological questions](https://science.sciencemag.org/content/367/6477/512), such as signaling mechanisms based on protein binding, modifications, and degradation, that have long remained elusive.
+The SCP center is developing mass-spectrometry (MS) technologies that afford analyzing proteins in single cells and promise to deliver similar gains to single-cell protein analysis. These [proteomic technologies](https://doi.org/10.1016/j.cbpa.2020.04.018) enable high-throughput [investigation of key biological questions](https://science.sciencemag.org/content/367/6477/512), such as signaling mechanisms based on protein binding, modifications, and degradation, that have long remained elusive.
 
 
 ------------
