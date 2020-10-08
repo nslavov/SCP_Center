@@ -22,7 +22,10 @@ Recent advances and news about single-cell proteomics technology in its applicat
 
 ## News and media highlights
 
-### [Slavov Named Allen Distinguished Investigator for Pioneering Single Cell Proteomics](https://coe.northeastern.edu/news/slavov-named-paul-g-allen-distinguished-investigator-for-pioneering-single-cell-proteomics-research/) &nbsp;   Oct 2020
+&nbsp;
+
+
+### [Slavov Named Allen Distinguished Investigator for Pioneering Single Cell Proteomics](https://coe.northeastern.edu/news/slavov-named-paul-g-allen-distinguished-investigator-for-pioneering-single-cell-proteomics-research/)
 [![]({{site.baseurl}}/single-cell-proteomics/News_images/frontiers_Slavov-Named-Allen-Distinguished-Investigator.png){:width="70%" .center-image}](https://doi.org/10.1016/j.cbpa.2020.04.018)
 The Allen Frontiers Group awarded an [Allen Distinguished Investigator Award](https://alleninstitute.org/what-we-do/frontiers-group/distinguished-investigators/projects/tracking-proteome-dynamics-single-cells) to support the development of a new technique, dubbed [SCoPE-Dyn](http://slavovlab.net/research.htm#SCoPE-Dyn), that will allow researchers to follow an individual cell’s “protein travelogue”: the changes over time in hundreds of different proteins across thousands of human cells.  
 
