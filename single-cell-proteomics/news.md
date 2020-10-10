@@ -1,7 +1,7 @@
 ---
 layout: default
 title: News
-nav_order: 6
+nav_order: 7
 description: "Single-cell proteomics news and media announcements"
 permalink: single-cell-proteomics/news
 ---
@@ -90,11 +90,11 @@ Single-cell mass spectrometry will help reveal mechanisms that underpin health a
 
 
 ## Upcoming meetings  
-The next [single-cell proteomics conference](http://single-cell.net/) is in August 2020.
+The next [single-cell proteomics conference](http://single-cell.net/) is in August 2021.
 
 
 <h2 style="letter-spacing: 2px; font-size: 28px; text-align: center;" id="single-cell-proteomics-conference-2020">
-<a href="http://single-cell.net/proteomics/scp2020">Third single-cell proteomics conference (SCP2020)</a>
+<a href="http://single-cell.net/proteomics/scp2021">Fourth single-cell proteomics conference (SCP2021)</a>
 </h2>
 
 &nbsp;
