@@ -13,7 +13,7 @@ permalink: single-cell-proteomics/members
 <tr border="0">
     <td>
       <div  id="NikolaiSlavov" style="font-size:20px; font-weight: 400; letter-spacing: 1.5px;" border="0" >
-			<span itemprop="name">Professor Nikolai Slavov</span>
+			<span itemprop="name">Nikolai Slavov</span>
 	  </div>
 		<br>
 		<div style="line-height: 160%; padding: 1 1 1 20;" >
@@ -25,7 +25,8 @@ permalink: single-cell-proteomics/members
 		<div style="letter-spacing: 1px;">
 		<a href="https://coe.northeastern.edu/people/slavov-nikolai/" target="_blank"  itemprop="url" alt="professor Slavov">Faculty Profile</a> &nbsp; | &nbsp;			
 		<a href="http://orcid.org/0000-0003-2035-1820" target="_blank">ORCID</a> &nbsp; | &nbsp;
-		<a href="https://scholar.harvard.edu/nslavov/biography" target="_blank">Biography</a>
+    	<a href="https://alleninstitute.org/what-we-do/frontiers-group/distinguished-investigators/projects/tracking-proteome-dynamics-single-cells" target="_blank">Allen Distinguished Investigator</a> &nbsp; | &nbsp;
+		<a href="https://scholar.harvard.edu/nslavov/biography" target="_blank">Bio</a>
 	   </div>
      </div>
     </td>
@@ -49,5 +50,7 @@ permalink: single-cell-proteomics/members
 ## Gray Huffman
 
 ## Jason Derks
+
+## Himadri Mukhopadhyay
 
 ## Harrison Specht
