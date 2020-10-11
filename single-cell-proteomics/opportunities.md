@@ -24,13 +24,17 @@ We welcome students, postdoctoral fellows and research scientists to join us in 
 * [Postdoctoral Fellows](http://slavovlab.net/people.htm#Prospective_Applicants)
 * [Doctoral Students](http://slavovlab.net/people.htm#Prospective_Applicants)
 
+&nbsp;
+
 ## Projects include
 
 * [Tracking proteome dynamics in single cells]({{site.baseurl}}/single-cell-proteomics/research#tracking-proteome-dynamics-in-single-cells)
 * Opportunities outlined in this *Perspective* [10.1126/science.aaz6695](https://science.sciencemag.org/content/367/6477/512)
 * Candidate initiated projects
 
+&nbsp;
 
+## Expectations
 The successful applicants will join a collaborative state-of-the-art laboratory with multiple LC-MS/MS systems and is expected to build strong collaborative partnerships within the group, as well as to develop and drive new projects within the scope of the center. Strong bioanalytical expertise and experience with high resolution quantitative mass spectrometry is desirable but not required.  
 
 
