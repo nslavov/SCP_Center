@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Members
+title: Team
 nav_order: 4
-description: "Single-cell proteomics research talks"
+description: "Single-cell proteomics research team"
 permalink: single-cell-proteomics/members
 ---
 {% include social-media-links.html %}
@@ -40,6 +40,8 @@ permalink: single-cell-proteomics/members
 
 ------------
 
+# Current team memebers 
+
 
 ## Aleksandra Petelski
 
@@ -54,3 +56,10 @@ permalink: single-cell-proteomics/members
 ## Himadri Mukhopadhyay
 
 ## Harrison Specht
+
+&nbsp;
+
+
+# Alumni 
+
+## [Recent alumni](https://web.northeastern.edu/slavovlab/blog/alums/)

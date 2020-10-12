@@ -14,7 +14,7 @@ We welcome students, postdoctoral fellows and research scientists to join us in 
 
 &nbsp;
 
-[![]({{site.baseurl}}/single-cell-proteomics/micrographs/Pluripotent-stem-cell.jpg){:width="100%" .center-image}]({{site.baseurl}}/single-cell-proteomics/micrographs/Pluripotent-stem-cell-large.jpg)
+[![]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-center_Team.JPG){:width="100%" .center-image}]({{site.baseurl}}/single-cell-proteomics/members)
 
 &nbsp;
 
@@ -37,6 +37,10 @@ We welcome students, postdoctoral fellows and research scientists to join us in 
 ## Expectations
 The successful applicants will join a collaborative state-of-the-art laboratory with multiple LC-MS/MS systems and is expected to build strong collaborative partnerships within the group, as well as to develop and drive new projects within the scope of the center. Strong bioanalytical expertise and experience with high resolution quantitative mass spectrometry is desirable but not required.  
 
+&nbsp;
+
+## Apply
+Please send a cover letter and your CV to [Nikolai Slavov](https://coe.northeastern.edu/people/slavov-nikolai/)
 
 
 &nbsp;
