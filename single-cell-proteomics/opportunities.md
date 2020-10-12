@@ -29,6 +29,7 @@ We welcome students, postdoctoral fellows and research scientists to join us in 
 ## Projects include
 
 * [Tracking proteome dynamics in single cells]({{site.baseurl}}/single-cell-proteomics/research#tracking-proteome-dynamics-in-single-cells)
+* [Mapping Transcriptomes and Proteomes in 3D]({{site.baseurl}}/single-cell-proteomics/research#mapping-the-transcriptome-and-proteome-of-human-testis-in-3d)
 * Opportunities outlined in this *Perspective* [10.1126/science.aaz6695](https://science.sciencemag.org/content/367/6477/512)
 * Candidate initiated projects
 
