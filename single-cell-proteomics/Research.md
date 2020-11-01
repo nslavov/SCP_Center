@@ -42,6 +42,8 @@ One of the most significant recent developments in biomedical research and engin
 
 [Read more >>](https://alleninstitute.org/what-we-do/frontiers-group/distinguished-investigators/projects/tracking-proteome-dynamics-single-cells)
 
+[![](http://slavovlab.net/index_files/Funders/pa_frontiers_group_circlelogo_rgb.png){:width="60%" .center-image}](https://news.northeastern.edu/2020/10/08/protein-does-a-lot-more-than-build-muscle-why-dont-we-understand-it-better/)
+
 
 
 
