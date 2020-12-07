@@ -33,12 +33,12 @@ aux_links:
     - "https://single-cell.net"
 
 
-search_enabled: true
+# search_enabled: true
 
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-ga_tracking: UA-4005755-4
+# ga_tracking: UA-4005755-4
 
 
 plugins:
