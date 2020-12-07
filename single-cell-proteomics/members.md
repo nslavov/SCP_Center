@@ -2,8 +2,9 @@
 layout: default
 title: Team
 nav_order: 4
-description: "Single-cell proteomics research team"
+description: "Single-cell proteomics center leadership and research team"
 permalink: single-cell-proteomics/members
+parent: People
 ---
 {% include social-media-links.html %}
 
@@ -43,7 +44,7 @@ permalink: single-cell-proteomics/members
 &nbsp;
 
 
-# Current team memebers 
+# Current team members
 
 
 ## Aleksandra Petelski
@@ -63,6 +64,6 @@ permalink: single-cell-proteomics/members
 &nbsp;
 
 
-# Alumni 
+# Alumni
 
 ## [Recent alumni](https://web.northeastern.edu/slavovlab/blog/alums/)
