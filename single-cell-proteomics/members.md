@@ -8,7 +8,7 @@ parent: People
 ---
 {% include social-media-links.html %}
 
-# Director
+# [Director](https://coe.northeastern.edu/people/slavov-nikolai/)
 
 <table  cellspacing="0" border="0"  cellpadding="0" >
 <tr border="0">
@@ -24,7 +24,7 @@ parent: People
 		  </div>
 		<br>
 		<div style="letter-spacing: 1px;">
-		<a href="https://coe.northeastern.edu/people/slavov-nikolai/" target="_blank"  itemprop="url" alt="professor Slavov">Faculty Profile</a> &nbsp; | &nbsp;			
+		<a href="https://cos.northeastern.edu/people/nikolai-slavov/" target="_blank"  itemprop="url" alt="professor Slavov">Faculty Profile</a> &nbsp; | &nbsp;			
 		<a href="http://orcid.org/0000-0003-2035-1820" target="_blank">ORCID</a> &nbsp; | &nbsp;
     	<a href="https://alleninstitute.org/what-we-do/frontiers-group/distinguished-investigators/projects/tracking-proteome-dynamics-single-cells" target="_blank">Allen Distinguished Investigator</a> &nbsp; | &nbsp;
 		<a href="https://scholar.harvard.edu/nslavov/biography" target="_blank">Bio</a>
@@ -32,8 +32,8 @@ parent: People
      </div>
     </td>
     <td  align="right"  border="0" >
-			<a href="https://www.linkedin.com/in/nslavov/" target="_blank" width="140"  alt="Nikolai Slavov" >
-			<img  src="http://slavovlab.net/index_files/Slavov-2019-Botev.jpg" width="140"  alt="Professor Slavov" ></a>
+			<a href="https://cos.northeastern.edu/people/nikolai-slavov/" target="_blank" width="140"  alt="Nikolai Slavov" >
+			<img  src="https://slavovlab.net/index_files/Slavov-2019-Botev.jpg" width="140"  alt="Professor Slavov" ></a>
 	</td>
 </tr>
 </table>
