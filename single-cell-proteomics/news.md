@@ -27,6 +27,10 @@ Recent advances and news about single-cell proteomics technology in its applicat
 ### [Specht named a Rising Stars in Proteomics and Metabolomics](https://pubs.acs.org/doi/full/10.1021/acs.jproteome.0c01026)
 [![]({{site.baseurl}}/single-cell-proteomics/News_images/Rising_Star.jpeg){:width="70%" .center-image}](https://twitter.com/slavov_n/status/1349758653339897859?s=20)
 
+---
+
+&nbsp;
+
 ### [Slavov Named Allen Distinguished Investigator for Pioneering Single Cell Proteomics](https://coe.northeastern.edu/news/slavov-named-paul-g-allen-distinguished-investigator-for-pioneering-single-cell-proteomics-research/)
 [![]({{site.baseurl}}/single-cell-proteomics/News_images/frontiers_Slavov-Named-Allen-Distinguished-Investigator.png){:width="70%" .center-image}](https://doi.org/10.1016/j.cbpa.2020.04.018)
 The Allen Frontiers Group awarded an [Allen Distinguished Investigator Award](https://alleninstitute.org/what-we-do/frontiers-group/distinguished-investigators/projects/tracking-proteome-dynamics-single-cells) to support the development of a [new technique](https://news.northeastern.edu/2020/10/08/protein-does-a-lot-more-than-build-muscle-why-dont-we-understand-it-better/), dubbed [SCoPE-Dyn](http://slavovlab.net/research.htm#SCoPE-Dyn), that will allow researchers to follow an individual cell’s “protein travelogue”: the changes over time in hundreds of different proteins across thousands of human cells.  
