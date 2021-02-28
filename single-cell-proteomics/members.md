@@ -51,15 +51,17 @@ parent: People
 
 ## Andrew Leduc
 
+## Burak Yilmaz
+
 ## David Perlman
 
 ## Gray Huffman
 
 ## Jason Derks
 
-## Himadri Mukhopadhyay
-
 ## Harrison Specht
+
+## Saad Khan
 
 &nbsp;
 
