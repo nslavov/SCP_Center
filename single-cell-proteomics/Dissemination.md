@@ -9,7 +9,7 @@ permalink: single-cell-proteomics/dissemination
 
 # Disseminating technology
 <div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;">
-The center actively disseminates single-cell proteomics technology and facilitates its broader adoption via the release of detailed tutorials, protocols, and research presentations.
+The center actively disseminates single-cell proteomics technology and facilitates its broader adoption via the release of <a href="https://workshop2019.single-cell.net">workshop tutorials</a>, <a href="https://scope2.slavovlab.net/mass-spec/protocol">protocols</a>, and research presentations.
 </div>
 
 &nbsp;
