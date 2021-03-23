@@ -9,7 +9,7 @@ permalink: single-cell-proteomics/dissemination
 
 # Disseminating technology
 <div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;">
-The center actively disseminates single-cell proteomics technology and facilitates its broader adoption via the release of <a href="https://workshop2019.single-cell.net">workshop tutorials</a>, <a href="https://scope2.slavovlab.net/mass-spec/protocol">protocols</a>, and research presentations.
+The center actively disseminates single-cell proteomics technology and facilitates its broader adoption via the release of <a href="https://workshop2019.single-cell.net">workshop tutorials</a>, <a href="https://scope2.slavovlab.net/mass-spec/protocol">protocols</a>, and <a href="https://youtube.single-cell.net">research presentations</a>.
 </div>
 
 &nbsp;
@@ -44,7 +44,7 @@ A collection of recorded video presentations from the [single-cell proteomics co
 
 
 ## Video resources
-Additional video recordings are available at the [YouTube Channel](https://www.youtube.com/c/NikolaiSlavovResearch) of the [Slavov Laboratory](http://slavovlab.net).
+Additional video recordings are available at the [YouTube Channel](https://www.youtube.com/c/NikolaiSlavovResearch) of the [Slavov Laboratory](https://slavovlab.net).
 
 
 <h2 style="letter-spacing: 2px; font-size: 28px; text-align: center;" id="single-cell-proteomics-videos">
