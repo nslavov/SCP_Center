@@ -24,6 +24,12 @@ Recent advances and news about single-cell proteomics technology in its applicat
 
 &nbsp;
 
+* [Highlight of single-cell proteomics technology developed by the SCP Center](https://www.nature.com/articles/s41592-021-01243-y)
+
+---
+
+&nbsp;
+
 ### [Specht named a Rising Stars in Proteomics and Metabolomics](https://pubs.acs.org/doi/full/10.1021/acs.jproteome.0c01026)
 [![]({{site.baseurl}}/single-cell-proteomics/News_images/Rising_Star.jpeg){:width="70%" .center-image}](https://twitter.com/slavov_n/status/1349758653339897859?s=20)
 
