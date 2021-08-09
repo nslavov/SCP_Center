@@ -24,7 +24,7 @@ Recent advances and news about single-cell proteomics technology in its applicat
 
 &nbsp;
 
-* [Highlight of single-cell proteomics technology developed by the SCP Center](https://www.nature.com/articles/s41592-021-01243-y)
+### [Highlight of single-cell proteomics technology developed by the SCP Center](https://www.nature.com/articles/s41592-021-01243-y)
 
 ---
 
