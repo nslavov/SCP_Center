@@ -57,9 +57,11 @@ parent: People
 
 ## Gray Huffman
 
+## Harrison Specht
+
 ## Jason Derks
 
-## Harrison Specht
+## Luke Khoury
 
 ## Saad Khan
 
