@@ -40,16 +40,17 @@ We welcome students, postdoctoral fellows, research scientists and faculty to jo
 ## Expectations
 The successful applicants will join a collaborative state-of-the-art laboratory with multiple LC-MS/MS systems and is expected to build strong collaborative partnerships within the group, as well as to develop and drive new projects within the scope of the center. Strong bioanalytical expertise and experience with high resolution quantitative mass spectrometry is desirable but not required.  
 
+<!--
 &nbsp;
 
 ## Apply
 Please send a cover letter and your CV to [Nikolai Slavov](https://coe.northeastern.edu/people/slavov-nikolai/)
-
+-->
 
 &nbsp;
 
 ## Faculty Recruitment
-The Department of Bioengineering at Northeastern University invites applications for tenured or tenure-track appointments at the assistant, associate or full professor level. We seek exceptional candidates in the area of single-cell, multi-omic technologies with the potential for driving the transition from descriptive tabulations of molecular participants in cellular systems to quantitative models of human pathophysiology.  Although a major wave of single-cell technologies was driven by RNA sequencing methodologies, we envision a next generation of approaches focused on single-cell proteomics and related technologies with applications to immuno-oncology, autoimmunity, neuroscience, developmental biology and others.  Areas of interest include, but are not limited, development of novel technologies that enable quantitative tracking of multi-faceted dynamics within single cells; advances in computational strategies that make best use of the highly complex single-cell data sets being generated; and construction of quantitative biochemical and biophysical models of cellular systems.   
+The [Department of Bioengineering at Northeastern University](https://bioe.northeastern.edu/) invites applications for tenured or tenure-track appointments at the assistant, associate or full professor level. We seek exceptional candidates in the area of single-cell, multi-omic technologies with the potential for driving the transition from descriptive tabulations of molecular participants in cellular systems to quantitative models of human pathophysiology.  Although a major wave of single-cell technologies was driven by RNA sequencing methodologies, we envision a next generation of approaches focused on single-cell proteomics and related technologies with applications to immuno-oncology, autoimmunity, neuroscience, developmental biology and others.  Areas of interest include, but are not limited, development of novel technologies that enable quantitative tracking of multi-faceted dynamics within single cells; advances in computational strategies that make best use of the highly complex single-cell data sets being generated; and construction of quantitative biochemical and biophysical models of cellular systems.   
 
 
 &nbsp;
