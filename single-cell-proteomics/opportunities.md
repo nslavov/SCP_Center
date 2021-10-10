@@ -2,7 +2,7 @@
 layout: default
 title: Opportunities
 nav_order: 6
-description: "Job opportunities in single-cell proteomics, job openings for single-cell biology and mass-spectrometry experts and trainees"
+description: "Job opportunities in single-cell proteomics, job openings for single-cell biology and mass-spectrometry faculty, scientists, experts and trainees"
 permalink: single-cell-proteomics/opportunities
 parent: People
 ---
@@ -10,7 +10,7 @@ parent: People
 
 # Join us
 <div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;">
-We welcome students, postdoctoral fellows and research scientists to join us in developing and applying single-cell proteomics technologies.
+We welcome students, postdoctoral fellows, research scientists and faculty to join us in developing and applying single-cell proteomics technologies.
 </div>
 
 &nbsp;
@@ -21,6 +21,7 @@ We welcome students, postdoctoral fellows and research scientists to join us in 
 
 
 ## We have open positions for:
+* [Tenured and tenure-track faculty](#faculty-recruitment)
 * [Research Scientists](http://slavovlab.net/people.htm#Prospective_Applicants)
 * [Postdoctoral Fellows](http://slavovlab.net/people.htm#Prospective_Applicants)
 * [Doctoral Students](http://slavovlab.net/people.htm#Prospective_Applicants)
@@ -47,7 +48,11 @@ Please send a cover letter and your CV to [Nikolai Slavov](https://coe.northeast
 
 &nbsp;
 
+## Faculty Recruitment
+The Department of Bioengineering at Northeastern University invites applications for tenured or tenure-track appointments at the assistant, associate or full professor level. We seek exceptional candidates in the area of single-cell, multi-omic technologies with the potential for driving the transition from descriptive tabulations of molecular participants in cellular systems to quantitative models of human pathophysiology.  Although a major wave of single-cell technologies was driven by RNA sequencing methodologies, we envision a next generation of approaches focused on single-cell proteomics and related technologies with applications to immuno-oncology, autoimmunity, neuroscience, developmental biology and others.  Areas of interest include, but are not limited, development of novel technologies that enable quantitative tracking of multi-faceted dynamics within single cells; advances in computational strategies that make best use of the highly complex single-cell data sets being generated; and construction of quantitative biochemical and biophysical models of cellular systems.   
 
+
+&nbsp;
 
 ------------
 
