@@ -30,13 +30,15 @@ A collection of detailed tutorials on performing single-cell protein analysis by
 
 
 ## Single-cell proteomics research presentations
-A collection of recorded video presentations from the [single-cell proteomics conferences](http://single-cell.net/) can be accessed from the links below.
+A collection of recorded video presentations from the annual [single-cell proteomics conferences](http://single-cell.net/) can be accessed from the links below.
 
-### [Research presentations from SCP2018](https://www.youtube.com/playlist?list=PLHLRxq8iKFsK-F_1832c1TLT2Qc4Fo4DB)
+### [Presentations from the 1st single-cell proteomics conferences SCP2018](https://www.youtube.com/playlist?list=PLHLRxq8iKFsK-F_1832c1TLT2Qc4Fo4DB)
 
-### [Research presentations from SCP2019](https://www.youtube.com/playlist?list=PLHLRxq8iKFsJxMcKhguyKMSI7vaIYTYsV)
+### [Presentations from SCP2019](https://www.youtube.com/playlist?list=PLHLRxq8iKFsJxMcKhguyKMSI7vaIYTYsV)
 
-### [Research presentations from SCP2020](http://scp2020videos.single-cell.net)
+### [Presentations from SCP2020](http://scp2020videos.single-cell.net)
+
+### [Presentations from SCP2021](http://scp2021videos.single-cell.net)
 
 
 &nbsp;
