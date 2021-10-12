@@ -47,6 +47,10 @@ The successful applicants will join a collaborative state-of-the-art laboratory 
 Please send a cover letter and your CV to [Nikolai Slavov](https://coe.northeastern.edu/people/slavov-nikolai/)
 -->
 
+------------
+
+&nbsp;
+
 &nbsp;
 
 ## Faculty Recruitment
@@ -58,6 +62,9 @@ The [Department of Bioengineering at Northeastern University](https://bioe.north
 &nbsp;
 
 ## Vision
+Recently, mass-spectrometry methods have increased the specificity and throughput of quantifying proteins in single mammalian cells: we can now quantify thousands of proteins across hundreds of single cells. We are confident that soon we will extend these methods to quantifying metabolites, post-translational modifications, and the dynamics and spatial distributions of proteins and their complexes. Ultimately, the accuracy, completeness and throughput of these measurements will provide data for transitioning from descriptive classification of single cells to quantitative models of regulatory protein interactions. We believe these data and models will enable systematic inference of direct causal mechanisms that underpin biological functions.
+
+&nbsp;
 
 >Single-cell multi-omics technologies are rapidly expanding. An exciting frontier is the comprehensive quantification of protein activities, interactions and conformations with single-cell resolution across time and space. Such analyses will be powered by emerging single-cell mass spectrometric technologies. These technologies will build quantitative biochemical and biophysical models of cellular systems and discover new drug targets. The success of such analyses will require (i) careful selection and sampling of relevant in vivo systems, including patient samples, and (ii) integration of multi-omics methods that analyze both cells and their environments. Areas poised to benefit from these developments include immuno-oncology, autoimmunity, neuroscience and developmental biology.
 
@@ -67,7 +74,9 @@ The [Department of Bioengineering at Northeastern University](https://bioe.north
 <!-- [Read more >>](https://www.nature.com/articles/s41587-021-00847-1) -->
 
 
+&nbsp;
 
+&nbsp;
 
 
 ------------
