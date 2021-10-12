@@ -62,7 +62,7 @@ The [Department of Bioengineering at Northeastern University](https://bioe.north
 &nbsp;
 
 ## Vision
-Recently, mass-spectrometry methods have increased the specificity and throughput of quantifying proteins in single mammalian cells: we can now quantify thousands of proteins across hundreds of single cells. We are confident that soon we will extend these methods to quantifying metabolites, post-translational modifications, and the dynamics and spatial distributions of proteins and their complexes. Ultimately, the accuracy, completeness and throughput of these measurements will provide data for transitioning from descriptive classification of single cells to quantitative models of regulatory protein interactions. We believe these data and models will enable systematic inference of direct causal mechanisms that underpin biological functions.
+Mass-spectrometry methods have increased the specificity and throughput of quantifying proteins in single mammalian cells: we can now quantify thousands of proteins across hundreds of single cells. We are confident that soon we will extend these methods to quantifying post-translational modifications, and the dynamics and spatial distributions of proteins and their complexes. Ultimately, the accuracy, completeness and throughput of these measurements will provide data for transitioning from descriptive classification of single cells to quantitative models of regulatory protein interactions. We believe these data and models will enable systematic inference of direct causal mechanisms that underpin biological functions.
 
 &nbsp;
 
@@ -70,8 +70,9 @@ Recently, mass-spectrometry methods have increased the specificity and throughpu
 
 > -- [Slavov et al. Nat Biotechnol 39, 281–286 (2021) ](https://www.nature.com/articles/s41587-021-00847-1)
 
+&nbsp;
 
-<!-- [Read more >>](https://www.nature.com/articles/s41587-021-00847-1) -->
+[Read more >>](https://doi.org/10.1126/science.aaz6695)
 
 
 &nbsp;
