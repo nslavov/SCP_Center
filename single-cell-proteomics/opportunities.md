@@ -58,8 +58,11 @@ The [Department of Bioengineering at Northeastern University](https://bioe.north
 &nbsp;
 
 ## Vision
-Single-cell multi-omics technologies are rapidly expanding. An exciting frontier is the comprehensive quantification of protein activities, interactions and conformations with single-cell resolution across time and space. Such analyses will be powered by emerging single-cell mass spectrometric technologies. These technologies will build quantitative biochemical and biophysical models of cellular systems and discover new drug targets. The success of such analyses will require (i) careful selection and sampling of relevant in vivo systems, including patient samples, and (ii) integration of multi-omics methods that analyze both cells and their environments. Areas poised to benefit from these developments include immuno-oncology, autoimmunity, neuroscience and developmental biology.
-Read more at [Nat Biotechnol 39, 281–286 (2021) >>](https://www.nature.com/articles/s41587-021-00847-1)
+
+>Single-cell multi-omics technologies are rapidly expanding. An exciting frontier is the comprehensive quantification of protein activities, interactions and conformations with single-cell resolution across time and space. Such analyses will be powered by emerging single-cell mass spectrometric technologies. These technologies will build quantitative biochemical and biophysical models of cellular systems and discover new drug targets. The success of such analyses will require (i) careful selection and sampling of relevant in vivo systems, including patient samples, and (ii) integration of multi-omics methods that analyze both cells and their environments. Areas poised to benefit from these developments include immuno-oncology, autoimmunity, neuroscience and developmental biology.
+-- [Slavov et al. Nat Biotechnol 39, 281–286 (2021) >>](https://www.nature.com/articles/s41587-021-00847-1)
+
+<!-- [Read more >>](https://www.nature.com/articles/s41587-021-00847-1) -->
 
 
 
