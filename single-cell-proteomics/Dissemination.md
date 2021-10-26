@@ -15,7 +15,7 @@ The center actively disseminates single-cell proteomics technology and facilitat
 &nbsp;
 
 
-[![]({{site.baseurl}}/single-cell-proteomics/micrographs/Pluripotent-stem-cell.jpg){:width="100%" .center-image}]({{site.baseurl}}/single-cell-proteomics/micrographs/Pluripotent-stem-cell-large.jpg)
+[![Pluripotent-stem-cells]({{site.baseurl}}/single-cell-proteomics/micrographs/Pluripotent-stem-cell.jpg){:width="100%" .center-image}]({{site.baseurl}}/single-cell-proteomics/micrographs/Pluripotent-stem-cell-large.jpg)
 
 &nbsp;
 

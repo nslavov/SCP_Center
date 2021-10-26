@@ -15,7 +15,7 @@ We welcome students, postdoctoral fellows, research scientists and faculty to jo
 
 &nbsp;
 
-[![]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-center_Team.JPG){:width="100%" .center-image}]({{site.baseurl}}/single-cell-proteomics/members)
+[![SCP center members]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-center_Team.JPG){:width="100%" .center-image}]({{site.baseurl}}/single-cell-proteomics/members)
 
 &nbsp;
 

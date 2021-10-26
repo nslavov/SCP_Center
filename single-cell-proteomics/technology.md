@@ -15,12 +15,12 @@ The center develops single-cell proteomics technology that is high-throughput, r
 &nbsp;
 
 
- [![](https://slavovlab.net/2016_SCoPE-MS/SCoPE2-MS.png){:width="100%" .center-image}](http://scope2.slavovlab.net/)
+ [![Single Cell ProtEomics by Mass-Spectrometry](https://slavovlab.net/2016_SCoPE-MS/SCoPE2-MS.png){:width="100%" .center-image}](http://scope2.slavovlab.net/)
 
 &nbsp;
 
 ### [Technologies for analyzing protein in single cells](http://slavovlab.net/research.htm#SCoPE-MS)
-Single Cell ProtEomics by MS ([SCoPE-MS](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1547-5)) and its second generation, [SCoPE2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02267-5),
+Single Cell ProtEomics by Mass-Spectrometry ([SCoPE-MS](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1547-5)) and its second generation, [SCoPE2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02267-5),
 use multiplexed experimental designs in which proteins from single cells and from the total cell lysate of a small group of cells (called carrier proteins) are barcoded with isobaric mass tags and then combined. This design, utilizes the [isobaric carrier](https://pubs.acs.org/doi/10.1021/acs.jproteome.0c00675) to reduce the loss of proteins from single cells adhering to equipment surfaces while simultaneously enhancing peptide identification.
 
 [Read more >>](https://scope2.slavovlab.net/)

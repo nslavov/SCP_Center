@@ -15,6 +15,6 @@ The key to our success is our creative, collaborative, and dedicated team. We we
 
 &nbsp;
 
-[![]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-center_Team.JPG){:width="100%" .center-image}]({{site.baseurl}}/single-cell-proteomics/members)
+[![Single-cell proteomics scientific team]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-center_Team.JPG){:width="100%" .center-image}]({{site.baseurl}}/single-cell-proteomics/members)
 
 &nbsp;

@@ -55,6 +55,8 @@ parent: People
 
 ## David Perlman
 
+## Georg Wallmann
+
 ## Gray Huffman
 
 ## Harrison Specht
