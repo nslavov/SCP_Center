@@ -29,6 +29,8 @@ Recent advances and news about single-cell proteomics technology in its applicat
 
 &nbsp;
 ### [Our protocol for multiplexed single-cell proteomics is published in Nature Protocols](https://www.nature.com/articles/s41596-021-00616-z)
+[![Single-cell-proteomics-protocol-Nature-Protocols]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-protocol-SCoPE2.jpeg){:width="70%" .center-image}](https://twitter.com/slavovLab/status/1454419664323366922?s=20)
+
 
 ---
 
