@@ -23,9 +23,19 @@ Recent advances and news about single-cell proteomics technology in its applicat
 ## News and media highlights
 
 &nbsp;
+### [The C&EN cover story feature technology pioneered at the SCP Center](https://cen.acs.org/biological-chemistry/proteomics/single-cell-proteomics-mass-spec/99/i40)
+
+---
+
+&nbsp;
+### [Our protocol for multiplexed single-cell proteomics is published in Nature Protocols](https://www.nature.com/articles/s41596-021-00616-z)
+
+---
+
+&nbsp;
 
 ### [Highlight of single-cell proteomics technology developed by the SCP Center](https://www.nature.com/articles/s41592-021-01243-y)
-[![]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-Nature-Methods-Highlight-2021.png){:width="70%" .center-image}](https://www.nature.com/articles/s41592-021-01243-y)
+[![Single-cell-proteomics-Nature-Methods-Highlight]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-Nature-Methods-Highlight-2021.png){:width="70%" .center-image}](https://www.nature.com/articles/s41592-021-01243-y)
 
 ---
 
