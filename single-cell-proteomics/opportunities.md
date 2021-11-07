@@ -2,7 +2,7 @@
 layout: default
 title: Opportunities
 nav_order: 6
-description: "Job opportunities in single-cell proteomics, job openings for single-cell biology and mass-spectrometry faculty, scientists, experts and trainees. Talent recruitment."
+description: "Job opportunities in single-cell biology, proteomics and mass-spectrometry. Job openings for faculty, scientists, experts and trainees. Talent recruitment."
 permalink: single-cell-proteomics/opportunities
 parent: People
 ---
