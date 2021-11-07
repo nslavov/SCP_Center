@@ -10,7 +10,7 @@ parent: People
 
 # Join us
 <div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;">
-We welcome students, postdoctoral fellows, research scientists and faculty to join us in developing and applying single-cell proteomics technologies.
+We welcome students, postdoctoral fellows, research scientists and faculty to join us in developing and using single-cell proteomics technologies to explore exiting biological problems.
 </div>
 
 &nbsp;
@@ -22,9 +22,9 @@ We welcome students, postdoctoral fellows, research scientists and faculty to jo
 
 ## We have open positions for:
 * [Tenured and tenure-track faculty](#faculty-recruitment)
-* [Research Scientists](http://slavovlab.net/people.htm#Prospective_Applicants)
-* [Postdoctoral Fellows](http://slavovlab.net/people.htm#Prospective_Applicants)
-* [Doctoral Students](http://slavovlab.net/people.htm#Prospective_Applicants)
+* [Research Scientists](https://slavovlab.net/people.htm#Prospective_Applicants)
+* [Postdoctoral Fellows](https://slavovlab.net/people.htm#Prospective_Applicants)
+* [Doctoral Students](https://slavovlab.net/people.htm#Prospective_Applicants)
 
 &nbsp;
 
@@ -32,13 +32,14 @@ We welcome students, postdoctoral fellows, research scientists and faculty to jo
 
 * [Tracking proteome dynamics in single cells]({{site.baseurl}}/single-cell-proteomics/research#tracking-proteome-dynamics-in-single-cells)
 * [Mapping Transcriptomes and Proteomes in 3D]({{site.baseurl}}/single-cell-proteomics/research#mapping-the-transcriptome-and-proteome-of-human-testis-in-3d)
-* Opportunities outlined in this *Perspective* [10.1126/science.aaz6695](https://science.sciencemag.org/content/367/6477/512)
+* [Identifying markers of senescence]({{site.baseurl}}/single-cell-proteomics/research#single-cell-proteomic-identification-of-novel-markers-of-senescence)
+* Opportunities outlined in [10.1126/science.aaz6695](https://science.sciencemag.org/content/367/6477/512)
 * Candidate initiated projects
 
 &nbsp;
 
 ## Expectations
-The successful applicants will join a collaborative state-of-the-art laboratory with multiple LC-MS/MS systems and is expected to build strong collaborative partnerships within the group, as well as to develop and drive new projects within the scope of the center. Strong bioanalytical expertise and experience with high resolution quantitative mass spectrometry is desirable but not required.  
+The successful applicants will join an interdisciplinary laboratory. They are expected to build strong collaborative partnerships within the group, as well as to develop and drive new projects within the scope of the center. Strong quantitative skills, biological expertise and experience with high resolution quantitative mass-spectrometry are desirable but not required.  
 
 <!--
 &nbsp;
