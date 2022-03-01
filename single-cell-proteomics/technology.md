@@ -42,7 +42,7 @@ The center develops single-cell proteomics technology that is high-throughput, r
 &nbsp;
 
 
-## [Sample preparation for single-cell proteomics](https://scp.slavovlab.net/sample-preparation)
+## [Sample preparation for single-cell proteomics](https://sample-prep.slavovlab.net)
 We have developed and use methods that use solely MS-compatible reagents and allow parallel preparation of hundreds of single cells in small volumes. These include [minimal sample preparation](https://sample-prep.slavovlab.net/mass-spec/mPOP) and [droplet sample preparation](https://sample-prep.slavovlab.net/POP).
 
 
