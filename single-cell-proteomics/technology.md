@@ -35,7 +35,7 @@ The center develops single-cell proteomics technology that is high-throughput, r
 
 
 ## Parallel analysis of both single cells and peptides
-[plexDIA](https://scp.slavovlab.net/plexDIA) can analyze about a thousand proteins while parallelizing the analysis of both single cells and peptides. It does not use a carrier sample.
+[plexDIA](https://scp.slavovlab.net/plexDIA) quantifies about a thousand proteins per single cell while parallelizing the analysis of both single cells and peptides. It does not use a carrier sample.
 
 [Read more >>](https://plexDIA.slavovlab.net)
 
