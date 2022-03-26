@@ -9,7 +9,7 @@ permalink: single-cell-proteomics/technology
 
 # Technology for single-cell analysis
 <div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;">
-The center develops single-cell proteomics technology that is high-throughput, robust, and easy to adopt.   
+The center develops single-cell proteomics technology that is quantitatively accurate, scalable, robust, and easy to adopt.   
 </div>
 
 &nbsp;
