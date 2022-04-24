@@ -25,6 +25,7 @@ The center actively disseminates single-cell proteomics technology and facilitat
 
 ### [Video tutorials from the SCP219 Workshop](https://www.youtube.com/playlist?list=PLHLRxq8iKFsLJey2MshSlUhg1lGAj0dLW)
 A collection of detailed tutorials on performing single-cell protein analysis by mass-spectrometry.
+---
 
 &nbsp;
 
@@ -39,7 +40,7 @@ A collection of recorded video presentations from the annual [single-cell proteo
 ### [Presentations from the 3<sup>rd</sup> Single-Cell Proteomics Conference, SCP2020](http://scp2020videos.single-cell.net)
 
 ### [Presentations from the 4<sup>th</sup> Single-Cell Proteomics Conference, SCP2021](http://scp2021videos.single-cell.net)
-
+---
 
 &nbsp;
 
@@ -47,12 +48,13 @@ A collection of recorded video presentations from the annual [single-cell proteo
 ## Single-cell proteomics protocols
 Protocols for single-cell protein analysis by mass-spectrometry.
 
-### [Sample preparation for single-cell proteomics](https://scope2.slavovlab.net/mass-spec/sample-preparation)
+### [Sample preparation for single-cell proteomics](https://scp.slavovlab.net/sample-preparation)
 
-### [Multiplexed single-cell proteomics using SCoPE2](https://scope2.slavovlab.net/mass-spec/protocol)
-
+### [Multiplexed single-cell proteomics methods](https://scp.slavovlab.net/methods){:title="Mass-specialized methods for accurate and high-throughput quantification of proteins in single cells"}
+---
 
 &nbsp;
+
 
 ## Video resources
 Additional video recordings are available at the [YouTube Channel](https://www.youtube.com/c/NikolaiSlavovResearch) of the [Slavov Laboratory](https://slavovlab.net).
