@@ -9,7 +9,7 @@ permalink: single-cell-proteomics/technology
 
 # Technology for single-cell analysis
 <div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;">
-The center develops single-cell proteomics technology that is high-throughput, robust, and easy to adopt.   
+The center develops single-cell proteomics technology that is quantitatively accurate, scalable, robust, and easy to adopt.   
 </div>
 
 &nbsp;
@@ -20,8 +20,8 @@ The center develops single-cell proteomics technology that is high-throughput, r
 &nbsp;
 
 
-## [Shotgun single-cell proteomics](https://slavovlab.net/research.htm#SCoPE-MS)
-[SCoPE-MS](https://scp.slavovlab.net/SCoPE-MS) and its second version [SCoPE-MS](https://scp.slavovlab.net/SCoPE2) can analyze thousands of proteins selected in order of their abundance in the samples. [SCoPE2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02267-5) uses multiplexed experimental designs in which proteins from single cells and from the total cell lysate of a small group of cells (called carrier proteins) are barcoded with isobaric mass tags and then combined. This design, utilizes the [isobaric carrier](https://pubs.acs.org/doi/10.1021/acs.jproteome.0c00675) to reduce the loss of proteins from single cells adhering to equipment surfaces while simultaneously enhancing peptide identification.
+## Shotgun single-cell proteomics
+[SCoPE-MS](https://scp.slavovlab.net/SCoPE-MS) and its second version [SCoPE2](https://scp.slavovlab.net/SCoPE2) can analyze thousands of proteins selected in order of their abundance in the samples. [SCoPE2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02267-5) uses multiplexed experimental designs in which proteins from single cells and from a small group of cells (called carrier proteins) are barcoded with isobaric mass tags and then combined. This design, utilizes the [isobaric carrier](https://pubs.acs.org/doi/10.1021/acs.jproteome.0c00675) to reduce the loss of proteins from single cells adhering to equipment surfaces while simultaneously enhancing peptide identification.
 
 [Read more >>][scope2]
 
@@ -35,14 +35,14 @@ The center develops single-cell proteomics technology that is high-throughput, r
 
 
 ## Parallel analysis of both single cells and peptides
-[plexDIA](https://scp.slavovlab.net/plexDIA) can analyze about a thousand proteins while parallelizing the analysis of both single cells and peptides. It does not use a carrier sample.
+[plexDIA](https://scp.slavovlab.net/plexDIA) parallelizes the analysis of both single cells and peptides. It quantifies about a thousand proteins per single cell while achieving 98% data completeness within a set. It does not use a carrier sample.
 
 [Read more >>](https://plexDIA.slavovlab.net)
 
 &nbsp;
 
 
-## [Sample preparation for single-cell proteomics](https://sample-prep.slavovlab.net)
+## Sample preparation for single-cell proteomics
 We have developed and use methods that use solely MS-compatible reagents and allow parallel preparation of hundreds of single cells in small volumes. These include [minimal sample preparation](https://sample-prep.slavovlab.net/mass-spec/mPOP) and [droplet sample preparation](https://sample-prep.slavovlab.net/POP).
 
 
