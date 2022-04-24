@@ -12,7 +12,7 @@ permalink: /
 # **Single-cell proteomics center**
 
 {: .fs-9 .fw-300}
-Single-cell biology in focus
+*Single-cell biology in focus*
 
 
 <div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;">
@@ -23,7 +23,7 @@ We develop mass-spectrometry based technologies for quantifying thousands of pro
 
 &nbsp;
 
- [![]({{site.baseurl}}/single-cell-proteomics/micrographs/T-lymphocytes-and-cancer-cell.jpg){:width="100%" .center-image}]({{site.baseurl}}/single-cell-proteomics/micrographs/T-lymphocytes-and-cancer-cell-large.jpg)
+ [![]({{site.baseurl}}/single-cell-proteomics/micrographs/T-lymphocytes-and-cancer-cell.jpg){:width="100%" .center-image}](single-cell-proteomics/micrographs/T-lymphocytes-and-cancer-cell-large.jpg)
 
 
 &nbsp;
