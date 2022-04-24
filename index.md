@@ -11,7 +11,7 @@ permalink: /
 
 # **Single-cell proteomics center**
 
-{: .fs-9 }
+{: .fs-9 .fw-300}
 Single-cell biology in focus
 
 
