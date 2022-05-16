@@ -26,11 +26,13 @@ The center actively disseminates single-cell proteomics technology and facilitat
 ### [Video tutorials from the SCP219 Workshop](https://www.youtube.com/playlist?list=PLHLRxq8iKFsLJey2MshSlUhg1lGAj0dLW)
 A collection of detailed tutorials on performing single-cell protein analysis by mass-spectrometry.
 
+---
+
 &nbsp;
 
 
 ## Single-cell proteomics research presentations
-A collection of recorded video presentations from the annual [single-cell proteomics conferences](http://single-cell.net/) can be accessed from the links below.
+A collection of recorded video presentations from the annual [single-cell proteomics conferences](https://single-cell.net/) can be accessed from the links below.
 
 ### [Presentations from the 1<sup>st</sup> Single-Cell Proteomics Conference, SCP2018](https://www.youtube.com/playlist?list=PLHLRxq8iKFsK-F_1832c1TLT2Qc4Fo4DB)
 
@@ -40,6 +42,7 @@ A collection of recorded video presentations from the annual [single-cell proteo
 
 ### [Presentations from the 4<sup>th</sup> Single-Cell Proteomics Conference, SCP2021](http://scp2021videos.single-cell.net)
 
+---
 
 &nbsp;
 
@@ -47,12 +50,14 @@ A collection of recorded video presentations from the annual [single-cell proteo
 ## Single-cell proteomics protocols
 Protocols for single-cell protein analysis by mass-spectrometry.
 
-### [Sample preparation for single-cell proteomics](https://scope2.slavovlab.net/mass-spec/sample-preparation)
+### [Sample preparation for single-cell proteomics](https://scp.slavovlab.net/sample-preparation)
 
-### [Multiplexed single-cell proteomics using SCoPE2](https://scope2.slavovlab.net/mass-spec/protocol)
+### [Multiplexed single-cell proteomics methods](https://scp.slavovlab.net/methods){:title="Mass-spectrometry methods for accurate and high-throughput quantification of proteins in single cells"}
 
+---
 
 &nbsp;
+
 
 ## Video resources
 Additional video recordings are available at the [YouTube Channel](https://www.youtube.com/c/NikolaiSlavovResearch) of the [Slavov Laboratory](https://slavovlab.net).
