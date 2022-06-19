@@ -29,7 +29,7 @@ Recent advances and news about single-cell proteomics technology in its applicat
 ### [Capital equipment grant from the Massachusetts Life Sciences Center (MLSC)](https://www.masslifesciences.com/baker-polito-administration-announces-5-6-million-in-life-sciences-funding-to-drive-innovation-in-data-science-drug-delivery-and-womens-health/)
 
 
-![Single-cell-proteomics-MLSC](News_images/MLSC.png){:width="50%" .center-image}
+![Single-cell-proteomics-MLSC](News_images/MLSC.png){:width="40%" .center-image}
 
 ---
 
@@ -38,7 +38,7 @@ Recent advances and news about single-cell proteomics technology in its applicat
 ### [The C&EN cover story feature technology pioneered at the SCP Center](https://cen.acs.org/biological-chemistry/proteomics/single-cell-proteomics-mass-spec/99/i40)
 
 
-![Single-cell-proteomics-C&EN](News_images/cen_2021.png){:width="70%" .center-image}](News_images/cen_2021.png)
+[![Single-cell-proteomics-C&EN](News_images/cen_2021.png){:width="70%" .center-image}](https://cen.acs.org/biological-chemistry/proteomics/single-cell-proteomics-mass-spec/99/i40)
 
 ---
 
