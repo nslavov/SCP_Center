@@ -14,8 +14,8 @@ Recent advances and news about single-cell proteomics technology in its applicat
 
 &nbsp;
 
-
-[![]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-revolution.png){:width="100%" .center-image}](https://www.bioanalysis-zone.com/2020/02/11/single-cell-proteomics-revolution_bo/)
+<!--
+[![]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-revolution.png){:width="100%" .center-image}](https://www.bioanalysis-zone.com/2020/02/11/single-cell-proteomics-revolution_bo/) -->
 
 &nbsp;
 
@@ -27,13 +27,18 @@ Recent advances and news about single-cell proteomics technology in its applicat
 &nbsp;
 ### [Capital equipment grant from the Massachusetts Life Sciences Center (MLSC)](https://www.masslifesciences.com/baker-polito-administration-announces-5-6-million-in-life-sciences-funding-to-drive-innovation-in-data-science-drug-delivery-and-womens-health/)
 
+[![](News_images/MLSC.png{:width="50%" .center-image}](https://cen.acs.org/biological-chemistry/proteomics/single-cell-proteomics-mass-spec/99/i40)
+
 ---
 
 
 &nbsp;
 ### [The C&EN cover story feature technology pioneered at the SCP Center](https://cen.acs.org/biological-chemistry/proteomics/single-cell-proteomics-mass-spec/99/i40)
 
+[![](News_images/cen_2021.png{:width="70%" .center-image}](https://cen.acs.org/biological-chemistry/proteomics/single-cell-proteomics-mass-spec/99/i40)
+
 ---
+
 
 &nbsp;
 ### [Our protocol for multiplexed single-cell proteomics is published in Nature Protocols](https://www.nature.com/articles/s41596-021-00616-z)
