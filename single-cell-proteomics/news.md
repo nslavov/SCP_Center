@@ -2,9 +2,10 @@
 layout: default
 title: News
 nav_order: 7
-description: "Single-cell proteomics news and media announcements"
+description: "Single-cell proteomics center news and media announcements"
 permalink: single-cell-proteomics/news
 ---
+
 {% include social-media-links.html %}
 
 # Single-cell proteomics news
