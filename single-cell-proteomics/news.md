@@ -22,6 +22,14 @@ Recent advances and news about single-cell proteomics technology in its applicat
 
 ## News and media highlights
 
+
+
+&nbsp;
+### [Capital equipment grant from the Massachusetts Life Sciences Center (MLSC)](https://www.masslifesciences.com/baker-polito-administration-announces-5-6-million-in-life-sciences-funding-to-drive-innovation-in-data-science-drug-delivery-and-womens-health/)
+
+---
+
+
 &nbsp;
 ### [The C&EN cover story feature technology pioneered at the SCP Center](https://cen.acs.org/biological-chemistry/proteomics/single-cell-proteomics-mass-spec/99/i40)
 
