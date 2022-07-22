@@ -39,6 +39,9 @@ The center develops single-cell proteomics technology that is quantitatively acc
 
 [Read more >>](https://plexDIA.slavovlab.net)
 
+[![Single Cell ProtEomics by plexDIA](https://scp.slavovlab.net/Figs/plexDIA_4.png){:width="80%" .center-image}][plexDIA]
+
+
 &nbsp;
 
 
@@ -62,3 +65,4 @@ The single-cell proteomics center is located at [Northeastern University](https:
 
 
 [scope2]: https://scope2.slavovlab.net/ "Single Cell ProtEomics by Mass-Spectrometry"
+[plexDIA]: https://scp.slavovlab.net/plexDIA "Increasing the throughput of single-cell proteomics by plexDIA"
