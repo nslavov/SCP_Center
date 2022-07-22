@@ -24,6 +24,14 @@ Recent advances and news about single-cell proteomics technology in its applicat
 ## News and media highlights
 
 
+&nbsp;
+### [plexDIA is published in *Nature Biotechnology*](https://www.nature.com/articles/s41587-022-01389-w)
+[![Single-cell-proteomics-plexDIA-Nature-Biotechnology]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-plexDIA.png){:width="70%" .center-image}](https://coe.northeastern.edu/news/nature-biotechnology-published-a-framework-for-multiplicative-scaling-of-single-cell-proteomics-developed-in-the-slavov-laboratory/)
+
+&nbsp;  [Research Briefing >>](https://www.nature.com/articles/s41587-022-01411-1)
+
+---
+
 
 &nbsp;
 ### [Capital equipment grant from the Massachusetts Life Sciences Center (MLSC)](https://www.masslifesciences.com/baker-polito-administration-announces-5-6-million-in-life-sciences-funding-to-drive-innovation-in-data-science-drug-delivery-and-womens-health/)
