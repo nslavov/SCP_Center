@@ -8,16 +8,14 @@ permalink: single-cell-proteomics/technology
 {% include social-media-links.html %}
 
 # Technology for single-cell analysis
-<div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;">
-The center develops single-cell proteomics technology that is quantitatively accurate, scalable, robust, and easy to adopt.   
-</div>
-
-
-# Contents
 {:.no_toc}
 
 * Will be replaced with the ToC, excluding the "Contents" header
 {:toc}
+
+<div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;">
+The center develops single-cell proteomics technology that is quantitatively accurate, scalable, robust, and easy to adopt.   
+</div>
 
 
 ## Shotgun single-cell proteomics
