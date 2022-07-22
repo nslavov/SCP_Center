@@ -56,6 +56,9 @@ We have developed and use methods that use solely MS-compatible reagents and all
 
 [Read more >>](https://scp.slavovlab.net/sample-preparation)
 
+[![Single Cell ProtEomics by plexDIA](https://sample-prep.slavovlab.net/assets/images/Automated_single-cell_sample_preparation.png){:width="80%" .center-image}](https://scp.slavovlab.net/sample-preparation)
+
+
 
 &nbsp;
 
