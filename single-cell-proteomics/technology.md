@@ -8,14 +8,18 @@ permalink: single-cell-proteomics/technology
 {% include social-media-links.html %}
 
 # Technology for single-cell analysis
+<div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;">
+The center develops single-cell proteomics technology that is quantitatively accurate, scalable, robust, and easy to adopt. It includes:   
+</div>
 {:.no_toc}
 
 * Will be replaced with the ToC, excluding the "Contents" header
 {:toc}
 
-<div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;">
-The center develops single-cell proteomics technology that is quantitatively accurate, scalable, robust, and easy to adopt.   
-</div>
+
+
+
+&nbsp;
 
 
 ## Shotgun single-cell proteomics
@@ -59,8 +63,12 @@ We have developed and use methods that use solely MS-compatible reagents and all
 
 &nbsp;
 
+&nbsp;
 
-## About the single-cell proteomics center
+&nbsp;
+
+
+**About the single-cell proteomics center**
 
 The single-cell proteomics center is located at [Northeastern University](https://slavovlab.net/) in Boston, MA, USA. Questions about the center should be addressed to [Prof. Nikolai Slavov](https://coe.northeastern.edu/people/slavov-nikolai/).
 
