@@ -30,11 +30,17 @@ The center develops single-cell proteomics technology that is quantitatively acc
 
 [Read more >>][scope2]
 
+--------
+
+&nbsp;
+
 
 ## Prioritized single-cell proteomics
 [pSCoPE](https://scp.slavovlab.net/pSCoPE) can analyze thousands of proteins selected in order of their priority for the biological question and project of interest.
 
 [Read more >>](https://scp.slavovlab.net/pSCoPE)
+
+--------
 
 &nbsp;
 
@@ -45,6 +51,8 @@ The center develops single-cell proteomics technology that is quantitatively acc
 [![Single Cell ProtEomics by plexDIA](https://scp.slavovlab.net/Figs/plexDIA_4.png){:width="80%" .center-image}](https://plexDIA.slavovlab.net)
 
 [Read more >>][plexDIA]
+
+---------
 
 
 &nbsp;
@@ -58,7 +66,6 @@ We have developed and use methods that use solely MS-compatible reagents and all
 
 [Read more >>](https://scp.slavovlab.net/sample-preparation)
 
-&nbsp;
 
 ------------
 
