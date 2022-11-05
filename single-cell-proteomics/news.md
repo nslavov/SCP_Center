@@ -27,6 +27,15 @@ Recent advances and news about single-cell proteomics technology in its applicat
 
 &nbsp;
 
+### [Highlight of single-cell proteomics methods developed by the SCP Center](https://www.nature.com/articles/s41592-022-01611-2)
+[![Single-cell-proteomics-GEN-Highlight]({{site.baseurl}}/single-cell-proteomics/News_images/GEN-Proteomics-Patterns.jpeg){:width="70%" .center-image}](https://www.genengnews.com/topics/omics/uncovering-proteomic-patterns-one-cell-at-a-time/)
+
+---
+
+
+
+&nbsp;
+
 ### [Highlight of single-cell methodology (plexDIA) developed by the SCP Center](https://www.nature.com/articles/s41592-022-01611-2)
 [![Single-cell-proteomics-Nature-Methods-Highlight]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-plexDIA-Highlight.png){:width="70%" .center-image}](https://doi.org/10.1038/s41592-022-01611-2)
 
