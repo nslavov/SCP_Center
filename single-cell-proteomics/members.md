@@ -74,4 +74,4 @@ parent: People
 
 # Alumni
 
-## [Recent alumni](https://blog.slavovlab/alums/)
+## [Center alumni](https://blog.slavovlab.net/alums/)
