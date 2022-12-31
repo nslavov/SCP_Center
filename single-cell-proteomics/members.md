@@ -53,11 +53,9 @@ parent: People
 
 ## Burak Yilmaz
 
+## Hannah Harens
+
 ## David Perlman
-
-## Georg Wallmann
-
-## Gray Huffman
 
 ## Harrison Specht
 
@@ -65,11 +63,15 @@ parent: People
 
 ## Luke Khoury
 
+## Orhun Kok
+
 ## Saad Khan
+
+## Sina Rafiee
 
 &nbsp;
 
 
 # Alumni
 
-## [Recent alumni](https://web.northeastern.edu/slavovlab/blog/alums/)
+## [Recent alumni](https://blog.slavovlab/alums/)
