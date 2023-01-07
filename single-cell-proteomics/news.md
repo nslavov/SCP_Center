@@ -24,6 +24,14 @@ Recent advances and news about single-cell proteomics technology in its applicat
 ## News and media highlights
 
 
+&nbsp;
+
+### [Untangling the Complexities of Single Cell Protein Analysis](https://www.insideprecisionmedicine.com/topics/molecular-dx-topic/single-cell-technology/untangling-the-complexities-of-single-cell-protein-analysis/)
+[![Single-cell-proteomics-insideprecisionmedicine-Highlight]({{site.baseurl}}/single-cell-proteomics/News_images/insideprecisionmedicine.png){:width="40%" .center-image}](https://www.insideprecisionmedicine.com/topics/molecular-dx-topic/single-cell-technology/untangling-the-complexities-of-single-cell-protein-analysis/)
+
+---
+
+
 
 &nbsp;
 
