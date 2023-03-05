@@ -24,6 +24,15 @@ Recent advances and news about single-cell proteomics technology in its applicat
 ## News and media highlights
 
 
+
+&nbsp;
+
+### [Single-Cell Proteomics Bypasses Bottlenecks, Sways Skeptics](https://www.genengnews.com/topics/omics/proteomics/single-cell-proteomics-bypasses-bottlenecks-sways-skeptics/)
+[![Single-cell-proteomics-insideprecisionmedicine-Highlight]({{site.baseurl}}/single-cell-proteomics/News_images/GENbio-2023-03-2.png){:width="40%" .center-image}](https://www.genengnews.com/topics/omics/proteomics/single-cell-proteomics-bypasses-bottlenecks-sways-skeptics/)
+
+---
+
+
 &nbsp;
 
 ### [Untangling the Complexities of Single Cell Protein Analysis](https://www.insideprecisionmedicine.com/topics/molecular-dx-topic/single-cell-technology/untangling-the-complexities-of-single-cell-protein-analysis/)
