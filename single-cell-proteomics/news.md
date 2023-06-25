@@ -10,7 +10,7 @@ permalink: single-cell-proteomics/news
 
 # Single-cell proteomics news
 <div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;">
-News about advances in single-cell proteomic technologies and its application to basic biomedical research and to clinical problems.  
+News about advances in single-cell proteomic technologies and their applications to basic biomedical research and to clinical problems.  
 </div>
 
 &nbsp;
