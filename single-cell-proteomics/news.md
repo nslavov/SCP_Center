@@ -25,7 +25,7 @@ News about advances in single-cell proteomic technologies and its application to
 
 
 
-### The 7th [single-cell proteomics conference](https://single-cell.net) is in May 2024.
+### The 7th [single-cell proteomics conference](https://single-cell.net) will be in May 2024.
 
 
 <h2 style="letter-spacing: 2px; font-size: 28px; text-align: center;" id="single-cell-proteomics-conference-2024">
