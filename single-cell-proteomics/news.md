@@ -2,7 +2,7 @@
 layout: default
 title: News
 nav_order: 7
-description: "Single-cell proteomics center news and media announcements"
+description: "Single-cell proteomics center news and media announcements on sensitive proteomic technology and its applications to life sciences"
 permalink: single-cell-proteomics/news
 ---
 
@@ -10,7 +10,7 @@ permalink: single-cell-proteomics/news
 
 # Single-cell proteomics news
 <div style="font-size:16px; font-weight: 400; letter-spacing: 1.3px;">
-Recent advances and news about single-cell proteomics technology in its application to basic biomedical research and to clinical problems.  
+News about advances in single-cell proteomic technologies and its application to basic biomedical research and to clinical problems.  
 </div>
 
 &nbsp;
@@ -22,6 +22,31 @@ Recent advances and news about single-cell proteomics technology in its applicat
 
 
 ## News and media highlights
+
+
+
+### The 7th [single-cell proteomics conference](https://single-cell.net) is in May 2024.
+
+
+<h2 style="letter-spacing: 2px; font-size: 28px; text-align: center;" id="single-cell-proteomics-conference-2024">
+<a href="https://single-cell.net/proteomics/scp2024">Seventh single-cell proteomics conference (SCP2024)</a>
+</h2>
+
+&nbsp;
+
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NNLh4nE687I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+
+&nbsp;
+
+### [Schmidt Futures Gives $50M for Life Science Research Including Single-Cell Proteomics Institute](https://www.genomeweb.com/proteomics-protein-research/schmidt-futures-gives-50m-life-science-research-including-single-cell)
+[![Parallel Squared Technology Institute](https://single-cell.net/sponsors/pti-full-black-transparent.png){:width="60%" .center-image}](https://www.parallelsq.org)
+
+---
 
 
 
@@ -173,13 +198,11 @@ Single-cell mass spectrometry will help reveal mechanisms that underpin health a
 &nbsp;
 
 
-
-## Upcoming meetings  
-The next [single-cell proteomics conference](http://single-cell.net/) is in August 2021.
+### The 4th [single-cell proteomics conference](https://single-cell.net/proteomics/scp2021) is in August 2021.
 
 
 <h2 style="letter-spacing: 2px; font-size: 28px; text-align: center;" id="single-cell-proteomics-conference-2020">
-<a href="http://single-cell.net/proteomics/scp2021">Fourth single-cell proteomics conference (SCP2021)</a>
+<a href="https://single-cell.net/proteomics/scp2021">Fourth single-cell proteomics conference (SCP2021)</a>
 </h2>
 
 &nbsp;
