@@ -32,18 +32,15 @@ News about advances in single-cell proteomic technologies and its application to
 <a href="https://single-cell.net/proteomics/scp2024">Seventh single-cell proteomics conference (SCP2024)</a>
 </h2>
 
-&nbsp;
-
-<div style="text-align: center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NNLh4nE687I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
+---
 
 
 &nbsp;
 
 ### [Schmidt Futures Gives $50M for Life Science Research Including Single-Cell Proteomics Institute](https://www.genomeweb.com/proteomics-protein-research/schmidt-futures-gives-50m-life-science-research-including-single-cell)
+
+&nbsp;
+
 [![Parallel Squared Technology Institute](https://single-cell.net/sponsors/pti-full-black-transparent.png){:width="60%" .center-image}](https://www.parallelsq.org)
 
 ---
