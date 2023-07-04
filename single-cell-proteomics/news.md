@@ -27,7 +27,7 @@ News about advances in single-cell proteomic technologies and their applications
 &nbsp;
 
 
-## [The 7th single-cell proteomics conference will be in May 2024](https://single-cell.net)
+### [The 7th single-cell proteomics conference will be in May 2024](https://single-cell.net)
 
 &nbsp;
 
@@ -47,6 +47,14 @@ News about advances in single-cell proteomic technologies and their applications
 
 ---
 
+&nbsp;
+
+### [pSCoPE is published in *Nature Methods*](https://www.nature.com/articles/s41592-023-01830-1)
+[![Single-cell-proteomics-pSCoPE-Nature-Methods]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-pSCoPE.png){:width="70%" .center-image}](https://scp.slavovlab.net/pSCoPE)
+
+[Research Briefing >>](https://www.nature.com/articles/s41592-023-01786-2)
+
+---
 
 
 &nbsp;
@@ -55,6 +63,19 @@ News about advances in single-cell proteomic technologies and their applications
 [![Single-cell-proteomics-insideprecisionmedicine-Highlight]({{site.baseurl}}/single-cell-proteomics/News_images/GENbio-2023-03-2.png){:width="40%" .center-image}](https://www.genengnews.com/topics/omics/proteomics/single-cell-proteomics-bypasses-bottlenecks-sways-skeptics/)
 
 ---
+
+
+
+&nbsp;
+
+### [Community Guidelines published in *Nature Methods*](https://www.nature.com/articles/s41592-023-01785-3)
+[![Single-cell-proteomics-pSCoPE-Nature-Methods]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-Guidelines-Nature-Methods.png){:width="70%" .center-image}](https://scp.slavovlab.net)
+
+[Supporting Website >>](https://single-cell.net/guidelines)
+
+---
+
+
 
 
 &nbsp;
@@ -82,13 +103,12 @@ News about advances in single-cell proteomic technologies and their applications
 
 ---
 
-
-
 &nbsp;
+
 ### [plexDIA is published in *Nature Biotechnology*](https://www.nature.com/articles/s41587-022-01389-w)
 [![Single-cell-proteomics-plexDIA-Nature-Biotechnology]({{site.baseurl}}/single-cell-proteomics/News_images/Single-cell-proteomics-plexDIA.png){:width="70%" .center-image}](https://coe.northeastern.edu/news/nature-biotechnology-published-a-framework-for-multiplicative-scaling-of-single-cell-proteomics-developed-in-the-slavov-laboratory/)
 
-&nbsp;  [Research Briefing >>](https://www.nature.com/articles/s41587-022-01411-1)
+[Research Briefing >>](https://www.nature.com/articles/s41587-022-01411-1)
 
 ---
 
