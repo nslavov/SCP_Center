@@ -43,7 +43,9 @@ News about advances in single-cell proteomic technologies and their applications
 
 &nbsp;
 
-[![Parallel Squared Technology Institute](https://single-cell.net/sponsors/pti-full-black-transparent.png){:width="60%" .center-image}](https://www.parallelsq.org)
+[![Parallel Squared Technology Institute](https://single-cell.net/sponsors/pti-full-black-transparent.png){:width="60%" .center-image}]({{site.baseurl}}/single-cell-proteomics/News_images/Schmidt-Futures-Supports-Single-Cell-Proteomics-Institute.pdf)
+
+[Read more >>](https://www.parallelsq.org/blog/pti-launches-to-scale-protein-analysis-towards-scientific-and-medical-breakthroughs)
 
 ---
 
