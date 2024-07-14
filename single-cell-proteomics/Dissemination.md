@@ -48,6 +48,8 @@ A collection of recorded video presentations from the annual [single-cell proteo
 ### [Presentations from the 6<sup>th</sup> Single-Cell Proteomics Conference, SCP2023](https://www.youtube.com/playlist?list=PLHLRxq8iKFsKgNeuza5IWg8_WvGeicyTW)
 
 
+### [Presentations from the 7<sup>th</sup> Single-Cell Proteomics Conference, SCP2024](https://www.youtube.com/playlist?list=PLHLRxq8iKFsJ9kZIn3Cur1N-v3f59xYnt)
+
 ---
 
 &nbsp;
@@ -56,9 +58,9 @@ A collection of recorded video presentations from the annual [single-cell proteo
 ## Single-cell proteomics protocols
 Protocols for single-cell protein analysis by mass-spectrometry.
 
-### [Sample preparation for single-cell proteomics](https://scp.slavovlab.net/sample-preparation)
-
-### [Multiplexed single-cell proteomics methods](https://scp.slavovlab.net/methods){:title="Mass-spectrometry methods for accurate and high-throughput quantification of proteins in single cells"}
+### [Protocols for singe-cell proteomics by mass spectrometry (MS) ](https://scp.slavovlab.net/protocols)
+ * [Sample preparation for single-cell MS proteomics](https://scp.slavovlab.net/sample-preparation)
+ * [Multiplexed single-cell MS proteomics methods](https://scp.slavovlab.net/methods){:title="Mass-spectrometry methods for accurate and high-throughput quantification of proteins in single cells"}
 
 ---
 
