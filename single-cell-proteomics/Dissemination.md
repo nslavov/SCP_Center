@@ -38,9 +38,9 @@ A collection of recorded video presentations from the annual [single-cell proteo
 
 ### [Presentations from the 2<sup>nd</sup> Single-Cell Proteomics Conference, SCP2019](https://www.youtube.com/playlist?list=PLHLRxq8iKFsJxMcKhguyKMSI7vaIYTYsV)
 
-### [Presentations from the 3<sup>rd</sup> Single-Cell Proteomics Conference, SCP2020](http://scp2020videos.single-cell.net)
+### [Presentations from the 3<sup>rd</sup> Single-Cell Proteomics Conference, SCP2020](scp2020videos.single-cell.net)
 
-### [Presentations from the 4<sup>th</sup> Single-Cell Proteomics Conference, SCP2021](http://scp2021videos.single-cell.net)
+### [Presentations from the 4<sup>th</sup> Single-Cell Proteomics Conference, SCP2021](scp2021videos.single-cell.net)
 
 ### [Presentations from the 5<sup>th</sup> Single-Cell Proteomics Conference, SCP2022](https://www.youtube.com/playlist?list=PLHLRxq8iKFsIeX3bWTaf48CJnm_QGzica)
 
