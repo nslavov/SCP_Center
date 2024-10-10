@@ -23,6 +23,32 @@ News about advances in single-cell proteomic technologies and their applications
 
 ## News and media highlights
 
+&nbsp;
+
+
+### [The 8th single-cell proteomics conference will be in May 2025](https://single-cell.net)
+
+&nbsp;
+
+[![Eighth single-cell proteomics conference (SCP2025)](https://single-cell.net/proteomics/photos/SCP2025_Single-Cell-Proteomics-Conference_Header.jpg){:width="60%" .center-image}](https://single-cell.net/proteomics/scp2024)
+
+---
+
+
+&nbsp;
+
+
+### [Unveiling Proteins: The Future Of Single-Cell Proteomics](https://www.ark-invest.com/podcast/unveiling-proteins-the-future-of-single-cell-proteomics-with-professor-nikolai-slavov?)
+
+&nbsp;
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sGW4cFee1IY?si=j3pVmhSM3ed1-Ii7&amp;start=1009" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+---
+
+
 
 &nbsp;
 
