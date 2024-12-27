@@ -36,7 +36,7 @@ The center develops single-cell proteomics technology that is quantitatively acc
 
 
 ## Prioritized single-cell proteomics
-[pSCoPE](https://scp.slavovlab.net/pSCoPE) can analyze thousands of proteins selected in order of their priority for the biological question and project of interest. pSCoPE achieves high data completeness within, usually above 85 %.
+[pSCoPE](https://scp.slavovlab.net/pSCoPE) can analyze thousands of proteins selected in order of their priority for the biological question and project of interest. pSCoPE achieves high data completeness within, usually above 85%.
 
 [Read more >>](https://scp.slavovlab.net/pSCoPE)
 
@@ -47,6 +47,8 @@ The center develops single-cell proteomics technology that is quantitatively acc
 
 ## Parallel analysis of both single cells and peptides
 [plexDIA][plexDIA] parallelizes the analysis of both single cells and peptides. It quantifies 1,000 - 5,000 proteins per single cell (depending on cell size and other [factors](https://youtu.be/kGNhq_8u4pE?feature=shared)) while achieving high data completeness within a set, usually above 90 %. It does not use a carrier sample, though it serves as a basis for [SCoPE-DIA](https://doi.org/10.1101/2024.06.17.599449), which uses an isotopologous carrier sample.
+
+&nbsp;
 
 [![Single Cell ProtEomics by plexDIA](https://scp.slavovlab.net/Figs/plexDIA_4.png){:width="80%" .center-image}](https://plexDIA.slavovlab.net)
 
