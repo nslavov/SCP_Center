@@ -36,7 +36,7 @@ The center develops single-cell proteomics technology that is quantitatively acc
 
 
 ## Prioritized single-cell proteomics
-[pSCoPE](https://scp.slavovlab.net/pSCoPE) can analyze thousands of proteins selected in order of their priority for the biological question and project of interest.
+[pSCoPE](https://scp.slavovlab.net/pSCoPE) can analyze thousands of proteins selected in order of their priority for the biological question and project of interest. pSCoPE achieves high data completeness within, usually above 85 %.
 
 [Read more >>](https://scp.slavovlab.net/pSCoPE)
 
@@ -46,7 +46,7 @@ The center develops single-cell proteomics technology that is quantitatively acc
 
 
 ## Parallel analysis of both single cells and peptides
-[plexDIA][plexDIA] parallelizes the analysis of both single cells and peptides. It quantifies about a thousand proteins per single cell while achieving 98% data completeness within a set. It does not use a carrier sample.
+[plexDIA][plexDIA] parallelizes the analysis of both single cells and peptides. It quantifies 1,000 - 5,000 proteins per single cell (depending on cell size and other [factors](https://youtu.be/kGNhq_8u4pE?feature=shared)) while achieving high data completeness within a set, usually above 90 %. It does not use a carrier sample, though it serves as a basis for [SCoPE-DIA](https://doi.org/10.1101/2024.06.17.599449), which uses an isotopologous carrier sample.
 
 [![Single Cell ProtEomics by plexDIA](https://scp.slavovlab.net/Figs/plexDIA_4.png){:width="80%" .center-image}](https://plexDIA.slavovlab.net)
 
@@ -59,7 +59,7 @@ The center develops single-cell proteomics technology that is quantitatively acc
 
 
 ## Sample preparation for single-cell proteomics
-We have developed and use methods that use solely MS-compatible reagents and allow parallel preparation of hundreds of single cells in small volumes. These include [minimal sample preparation](https://sample-prep.slavovlab.net/mass-spec/mPOP) and [droplet sample preparation](https://sample-prep.slavovlab.net/POP).
+We have developed and use methods that use solely MS-compatible reagents and allow parallel preparation of hundreds of single cells in small volumes. These include [minimal sample preparation](https://sample-prep.slavovlab.net/mass-spec/mPOP) and [droplet sample preparation](https://sample-prep.slavovlab.net/nPOP).
 
 
 [![Sample preparation for Single Cell Proteomics](https://sample-prep.slavovlab.net/assets/images/Automated_single-cell_sample_preparation.png){:width="80%" .center-image}](https://scp.slavovlab.net/sample-preparation)
