@@ -23,6 +23,22 @@ News about advances in single-cell proteomic technologies and their applications
 
 ## News and media highlights
 
+
+&nbsp;
+
+
+### [The 9th single-cell proteomics conference will be in July 2026](https://single-cell.net)
+
+&nbsp;
+
+[![Ninth single-cell proteomics conference (SCP2026)](https://single-cell.net/proteomics/photos/SCP2026_Single-Cell-Proteomics-Conference_Header.jpg){:width="60%" .center-image}](https://single-cell.net/proteomics/scp2026)
+
+---
+
+
+
+
+
 &nbsp;
 
 
@@ -30,7 +46,7 @@ News about advances in single-cell proteomic technologies and their applications
 
 &nbsp;
 
-[![Eighth single-cell proteomics conference (SCP2025)](https://single-cell.net/proteomics/photos/SCP2025_Single-Cell-Proteomics-Conference_Header.jpg){:width="60%" .center-image}](https://single-cell.net/proteomics/scp2024)
+[![Eighth single-cell proteomics conference (SCP2025)](https://single-cell.net/proteomics/photos/SCP2025_Single-Cell-Proteomics-Conference_Header.jpg){:width="60%" .center-image}](https://single-cell.net/proteomics/scp2025)
 
 ---
 
@@ -95,10 +111,10 @@ News about advances in single-cell proteomic technologies and their applications
 
 &nbsp;
 
-### [Advances in LC-MS Workflows for Single Cells](single-cell-proteomics/Advances-in-LC-MS-Single-Cells.pdf)
-[![Single-cell-proteomics-pSCoPE-Nature-Methods]({{site.baseurl}}/single-cell-proteomics/News_images/Advances-in-LC-MS-Single-Cells.png){:width="70%" .center-image}]({{site.baseurl}}/single-cell-proteomics/Advances-in-LC-MS-Single-Cells.pdf)
+### [Advances in LC-MS Workflows for Single Cells](Advances-in-LC-MS-Single-Cells.pdf)
+[![Single-cell-proteomics-Advances]({{site.baseurl}}/single-cell-proteomics/News_images/Advances-in-LC-MS-Single-Cells.png){:width="70%" .center-image}]({{site.baseurl}}/single-cell-proteomics/Advances-in-LC-MS-Single-Cells.pdf)
 
-[Highlight >>](single-cell-proteomics/Advances-in-LC-MS-Single-Cells.pdf)
+[Highlight >>](Advances-in-LC-MS-Single-Cells.pdf)
 
 ---
 

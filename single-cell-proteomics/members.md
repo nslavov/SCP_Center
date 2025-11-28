@@ -47,7 +47,6 @@ parent: People
 # Current team members
 
 
-
 ## Andrew Leduc
 
 ## Bin Zhang
@@ -66,9 +65,11 @@ parent: People
 
 ## Saad Khan
 
+## Shanshan Zheng
+
 ## Sina Rafiee
 
-## Tobias Jonson
+
 
 &nbsp;
 
@@ -76,3 +77,19 @@ parent: People
 # Alumni
 
 ## [Center alumni](https://blog.slavovlab.net/alums/)
+
+
+
+# Past team members
+
+
+## Bin Zhang
+
+## Hannah Harens
+
+## Harrison Specht
+
+## Jason Derks
+
+
+## Rainer Machne
