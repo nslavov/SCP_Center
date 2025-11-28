@@ -93,6 +93,15 @@ News about advances in single-cell proteomic technologies and their applications
 ---
 
 
+&nbsp;
+
+### [Advances in LC-MS Workflows for Single Cells](single-cell-proteomics/Advances-in-LC-MS-Single-Cells.pdf)
+[![Single-cell-proteomics-pSCoPE-Nature-Methods]({{site.baseurl}}/single-cell-proteomics/News_images/Advances-in-LC-MS-Single-Cells.png){:width="70%" .center-image}]({{site.baseurl}}/single-cell-proteomics/Advances-in-LC-MS-Single-Cells.pdf)
+
+[Highlight >>](single-cell-proteomics/Advances-in-LC-MS-Single-Cells.pdf)
+
+---
+
 
 &nbsp;
 
