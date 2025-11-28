@@ -31,7 +31,7 @@ News about advances in single-cell proteomic technologies and their applications
 
 &nbsp;
 
-[![Ninth single-cell proteomics conference (SCP2026)](https://single-cell.net/proteomics/photos/SCP2026_Single-Cell-Proteomics-Conference_Header.jpg){:width="60%" .center-image}](https://single-cell.net/proteomics/scp2026)
+[![Ninth single-cell proteomics conference (SCP2026)](https://single-cell.net/proteomics/photos/scp26_banner1_sml.png){:width="60%" .center-image}](https://single-cell.net/proteomics/scp2026)
 
 ---
 
