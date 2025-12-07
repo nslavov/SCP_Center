@@ -49,19 +49,11 @@ parent: People
 
 ## Andrew Leduc
 
-## Bin Zhang
-
 ## Hannah Harens
-
-## Harrison Specht
-
-## Jason Derks
 
 ## Luke Khoury
 
 ## Orhun Kok
-
-## Rainer Machne
 
 ## Saad Khan
 
@@ -85,11 +77,8 @@ parent: People
 
 ## Bin Zhang
 
-## Hannah Harens
-
 ## Harrison Specht
 
 ## Jason Derks
-
 
 ## Rainer Machne
