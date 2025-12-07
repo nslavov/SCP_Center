@@ -27,6 +27,18 @@ News about advances in single-cell proteomic technologies and their applications
 &nbsp;
 
 
+### [Discovery of symmetry breaking in mammalian development](https://news.northeastern.edu/2025/12/03/human-embryo-cells-blank-slate-research/)
+
+&nbsp;
+
+[![Fertilization triggers early proteomic symmetry breaking in mammalian embryos](News_images/2025_Petelski_Embryo_Cell.png){:width="60%" .center-image}](https://slavovlab.net/Slavov-Lab-Publications/2025_Petelski_Embryo_Cell.pdf)
+
+---
+
+
+&nbsp;
+
+
 ### [The 9th single-cell proteomics conference will be in July 2026](https://single-cell.net)
 
 &nbsp;
