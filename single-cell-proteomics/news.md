@@ -26,7 +26,6 @@ News about advances in single-cell proteomic technologies and their applications
 
 &nbsp;
 
-*
 
 ### [*Nature* Tech Feature: From skepticism to robust technology](https://www.nature.com/articles/d41586-026-02805-w)
 
