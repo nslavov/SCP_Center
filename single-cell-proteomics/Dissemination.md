@@ -52,6 +52,9 @@ A collection of recorded video presentations from the annual [single-cell proteo
 
 ### [Presentations from the 8<sup>th</sup> Single-Cell Proteomics Conference, SCP2025](https://www.youtube.com/playlist?list=PLHLRxq8iKFsKvnKYlmMHUDiVf1AL8jo7r)
 
+### [Presentations from the 9<sup>th</sup> Single-Cell Proteomics Conference, SCP2026](https://www.youtube.com/playlist?list=PLImjfwuJZC7U)
+
+
 <!--
 scp2020videos.single-cell.net
 scp2021videos.single-cell.net
